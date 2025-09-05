@@ -1,9 +1,10 @@
 # <ins>BAR-Tweaks</ins>
 Beyond All Reason Lua Script Tweaks/Mods
 Use ```!bset tweakdefs (code)``` to apply.
-Copy the codes below.
-To apply multiple tweaks at once use !bset tweakdefs 1 (code) !bset tweakdefs 2 (code) etc...
 
+To apply multiple tweaks at once use ```!bset tweakdefs 1 (code)``` ```!bset tweakdefs 2 (code)``` etc...
+
+Copy the codes below.
 ### <ins>All Faction Commander</ins>
 Lets all commanders the ability to build any factions T1 Lab.
 ```
