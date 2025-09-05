@@ -1,133 +1,27 @@
-{
-  armcom = {
-    buildoptions = {
-      -- Normal ARM options
-	"armsolar",
-	"armwin",
-	"armmstor",
-	"armestor",
-	"armmex",
-	"armmakr",
-	"armlab",
-	"armvp",
-	"armap",
-	"armeyes",
-	"armrad",
-	"armdrag",
-	"armllt",
-	"armrl",
-	"armdl",
-	"armtide",
-	"armuwms",
-	"armuwes",
-	"armfmkr",
-	"armsy",
-	"armfdrag",
-	"armtl",
-	"armfrt",
-	"armfrad",
-	"armhp",
-	"armfhp",
-
-      -- Extra CORE T1 labs
-      "corlab",
-      "corvp",
-      "corsy",
-      "corhp",
-      "corap",
-
-      -- Extra LEGION T1 labs
-      "leglab",
-      "legvp",
-      "legsy",
-      "leghp",
-      "legap"
-    }
-  },
-  corcom = {
-    buildoptions = {
-      -- Normal CORE options
-	"corsolar",
-	"corwin",
-	"cormstor",
-	"corestor",
-	"cormex",
-	"cormakr",
-	"corlab",
-	"corvp",
-	"corap",
-	"coreyes",
-	"corrad",
-	"cordrag",
-	"corllt",
-	"corrl",
-	"cordl",
-	"cortide",
-	"coruwms",
-	"coruwes",
-	"corfmkr",
-	"corsy",
-	"corfdrag",
-	"cortl",
-	"corfrt",
-
-
-      -- Extra ARM T1 labs
-      "armlab",
-      "armvp",
-      "armsy",
-      "armhp",
-      "armap",
-
-      -- Extra LEGION T1 labs
-      "leglab",
-      "legvp",
-      "legsy",
-      "leghp",
-      "legap"
-    }
-  },
-  legcom = {
-    buildoptions = {
-      -- Normal LEGION options
-	"legsolar",
-	"legwin",
-	"legmstor",
-	"legestor",
-	"legmex",
-	"legeconv",
-	"leglab",
-	"legvp",
-	"legap",
-	"legeyes",
-	"legrad",
-	"legdrag",
-	"leglht",
-	"legrl",
-	"legctl",
-	"legtide",
-	"leguwmstore",
-	"leguwestore",
-	"legfeconv",
-	"corsy",
-	"legfdrag",
-	"legtl",
-	"legfrl",
-	"legfrad",
-
-      -- Extra ARM T1 labs
-      "armlab",
-      "armvp",
-      "armsy",
-      "armhp",
-      "armap",
-
-      -- Extra CORE T1 labs
-      "corlab",
-      "corvp",
-      "corsy",
-      "corhp",
-      "corap"
-    }
-  }
+-- All Faction Commanders
+local extraBuildOptions = {
+    armcom = {
+        "corlab","corvp","corsy","corhp","corap",
+        "leglab","legvp","legsy","leghp","legap",
+    },
+    corcom = {
+        "armlab","armvp","armsy","armhp","armap",
+        "leglab","legvp","legsy","leghp","legap",
+    },
+    legcom = {
+        "armlab","armvp","armsy","armhp","armap",
+        "corlab","corvp","corsy","corhp","corap",
+    },
 }
+
+for baseName, extras in pairs(extraBuildOptions) do
+    for lvl = 0, 10 do
+        local unitName = lvl == 0 and baseName or (baseName .. "lvl" .. lvl)
+        local uDef = UnitDefs[unitName]
+        if uDef and uDef.buildoptions then
+            for _, option in ipairs(extras) do
+                table.insert(uDef.buildoptions, option)
+            end
+        end
+    end
+end
