@@ -13,7 +13,7 @@
 <details>
 <summary>Enable</summary>
 <details>
-><summary>ConTurret Build Options</summary>
+<summary>ConTurret Build Options</summary>
 **File:** `enable-conturret-buildoptions.lua`  
 >Adds additional build options to the ConTurret.  
 ```
@@ -21,7 +21,8 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 ```
 ---
 </details>
-#### Underwater DGun
+<details>
+<summary>Underwater DGun</summary>
 **File:** `enable-dgun-uw.lua`  
 >Allows all commanders to use DGun underwater.  
 >⚠️ DGun projectiles above water do not affect submersibles.  
@@ -29,7 +30,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwiY29yY29tIiwibGVnY29tIiwKICAgICJhcm1jb21sdmwxIiwiYXJtY29tbHZsMiIsImFybWNvbWx2bDMiLCJhcm1jb21sdmw0IiwiYXJtY29tbHZsNSIsCiAgICAiYXJtY29tbHZsNiIsImFybWNvbWx2bDciLCJhcm1jb21sdmw4IiwiYXJtY29tbHZsOSIsImFybWNvbWx2bDEwIiwKICAgICJjb3Jjb21sdmwxIiwiY29yY29tbHZsMiIsImNvcmNvbWx2bDMiLCJjb3Jjb21sdmw0IiwiY29yY29tbHZsNSIsCiAgICAiY29yY29tbHZsNiIsImNvcmNvbWx2bDciLCJjb3Jjb21sdmw4IiwiY29yY29tbHZsOSIsImNvcmNvbWx2bDEwIiwKICAgICJsZWdjb21sdmwxIiwibGVnY29tbHZsMiIsImxlZ2NvbWx2bDMiLCJsZWdjb21sdmw0IiwibGVnY29tbHZsNSIsCiAgICAibGVnY29tbHZsNiIsImxlZ2NvbWx2bDciLCJsZWdjb21sdmw4IiwibGVnY29tbHZsOSIsImxlZ2NvbWx2bDEwIiwKfQoKZm9yIF8sIG5hbWUgaW4gaXBhaXJzKGNvbW1hbmRlcnMpIGRvCiAgICBsb2NhbCB1RGVmID0gVW5pdERlZnNbbmFtZV0KICAgIGlmIHVEZWYgYW5kIHVEZWYud2VhcG9uZGVmcyB0aGVuCiAgICAgICAgZm9yIF8sIHdEZWYgaW4gcGFpcnModURlZi53ZWFwb25kZWZzKSBkbwogICAgICAgICAgICBpZiB3RGVmLm5hbWUgYW5kIHdEZWYubmFtZTpsb3dlcigpOmZpbmQoImRpc2ludGVncmF0b3IiKSB0aGVuCiAgICAgICAgICAgICAgICB3RGVmLmZpcmVzdWJtZXJzZWQgPSB0cnVlCiAgICAgICAgICAgICAgICB3RGVmLndhdGVyd2VhcG9uICAgPSB0cnVlCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCmVuZA
 ```
 ---
-
+</details>
 #### Reverse Gear
 **File:** `enable-reversegear.lua`  
 >Enables reverse gear functionality for vehicles.  
