@@ -1,4 +1,4 @@
--- Faction Agnostic
+--Faction Agnostic Mod
 local function mergeLabs(labs)
     local merged = {}
     for _, lab in ipairs(labs) do
