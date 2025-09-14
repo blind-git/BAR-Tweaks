@@ -67,7 +67,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 ---
 </details>
 <details>
-<summary>### Mod</summary>
+<summary>Modify</summary>
 
 #### All Faction Commander
 **File:** `mod-allfactioncom.lua`  
