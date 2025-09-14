@@ -1,4 +1,4 @@
--- All Faction Commanders
+--All Faction Commanders
 local extraBuildOptions = {
     armcom = {
         "corlab","corvp","corsy","corhp","corap",
