@@ -31,15 +31,17 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ```
 ---
 </details>
-#### Reverse Gear
+<details>
+<summary>Reverse Gear</summary>
 **File:** `enable-reversegear.lua`  
 >Enables reverse gear functionality for vehicles.  
 ```
 LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
 ```
 ---
-
-#### Extra Units Lite Pack
+</details>
+<details>
+<summary>Extra Units Lite Pack</summary>
 **File:** `enable-extraunitslite.lua`
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
 ```
@@ -47,19 +49,20 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 ```
 ---
 </details>
+</details>
 <details>
 <summary>Disable</summary>
-
-#### Jamming & Stealth
+<details>
+<summary>Jamming & Stealth</summary>
 **File:** `disable-jammingstealthy.lua`  
 >Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
 ```
 LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXREZWZzKSBkbwogICAgaWYgdURlZi5yYWRhcmRpc3RhbmNlamFtIGFuZCB1RGVmLnJhZGFyZGlzdGFuY2VqYW0gPiAwIHRoZW4KICAgICAgICB1RGVmLnJhZGFyZGlzdGFuY2VqYW0gPSAwCiAgICAgICAgdURlZi5zdGVhbHRoID0gZmFsc2UKICAgICAgICB1RGVmLm9ub2ZmYWJsZSA9IGZhbHNlCiAgICAgICAgdURlZi5lbmVyZ3l1cGtlZXAgPSAwCiAgICBlbmQKZW5k
 ```
-
 ---
-
-#### Tyrannus / Dragon
+</details>
+<details>
+<summary>Tyrannus / Dragon</summary>
 **File:** `disable-tyrannusdragon.lua`  
 >Removes Tyrannus and Dragon units from Advanced Air Labs.  
 ```
@@ -67,10 +70,11 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 ```
 ---
 </details>
+</details>
 <details>
 <summary>Modify</summary>
-
-#### All Faction Commander
+<details>
+<summary>All Faction Commander</summary>
 **File:** `mod-allfactioncom.lua`  
 >Allows **all commanders** to build any factions T1 Lab.  
 >✔ Supports evolving commanders.  
@@ -78,14 +82,16 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJtY29tID0gewogICAgICAgICJjb3JsYWIiLCJjb3J2cCIsImNvcnN5IiwiY29yaHAiLCJjb3JhcCIsCiAgICAgICAgImxlZ2xhYiIsImxlZ3ZwIiwibGVnc3kiLCJsZWdocCIsImxlZ2FwIiwKICAgIH0sCiAgICBjb3Jjb20gPSB7CiAgICAgICAgImFybWxhYiIsImFybXZwIiwiYXJtc3kiLCJhcm1ocCIsImFybWFwIiwKICAgICAgICAibGVnbGFiIiwibGVndnAiLCJsZWdzeSIsImxlZ2hwIiwibGVnYXAiLAogICAgfSwKICAgIGxlZ2NvbSA9IHsKICAgICAgICAiYXJtbGFiIiwiYXJtdnAiLCJhcm1zeSIsImFybWhwIiwiYXJtYXAiLAogICAgICAgICJjb3JsYWIiLCJjb3J2cCIsImNvcnN5IiwiY29yaHAiLCJjb3JhcCIsCiAgICB9LAp9Cgpmb3IgYmFzZU5hbWUsIGV4dHJhcyBpbiBwYWlycyhleHRyYUJ1aWxkT3B0aW9ucykgZG8KICAgIGZvciBsdmwgPSAwLCAxMCBkbwogICAgICAgIGxvY2FsIHVuaXROYW1lID0gbHZsID09IDAgYW5kIGJhc2VOYW1lIG9yIChiYXNlTmFtZSAuLiAibHZsIiAuLiBsdmwpCiAgICAgICAgbG9jYWwgdURlZiA9IFVuaXREZWZzW3VuaXROYW1lXQogICAgICAgIGlmIHVEZWYgYW5kIHVEZWYuYnVpbGRvcHRpb25zIHRoZW4KICAgICAgICAgICAgZm9yIF8sIG9wdGlvbiBpbiBpcGFpcnMoZXh0cmFzKSBkbwogICAgICAgICAgICAgICAgdGFibGUuaW5zZXJ0KHVEZWYuYnVpbGRvcHRpb25zLCBvcHRpb24pCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCmVuZA
 ```
 ---
-
-#### Faction Agnostic Labs
+</details>
+<details>
+<summary>Faction Agnostic Labs</summary>
 **File:** `mod-factionagnostic.lua`  
 >Allows **all labs** to build all factions units of the same tier and type.  
 ```
 LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxvY2FsIG1lcmdlZCA9IHt9CiAgICBmb3IgXywgbGFiIGluIGlwYWlycyhsYWJzKSBkbwogICAgICAgIGxvY2FsIHVEZWYgPSBVbml0RGVmc1tsYWJdCiAgICAgICAgaWYgdURlZiBhbmQgdURlZi5idWlsZG9wdGlvbnMgdGhlbgogICAgICAgICAgICBmb3IgXywgYm8gaW4gaXBhaXJzKHVEZWYuYnVpbGRvcHRpb25zKSBkbwogICAgICAgICAgICAgICAgbWVyZ2VkW2JvXSA9IHRydWUKICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICBlbmQKICAgIGxvY2FsIGxpc3QgPSB7fQogICAgZm9yIHVuaXROYW1lIGluIHBhaXJzKG1lcmdlZCkgZG8KICAgICAgICB0YWJsZS5pbnNlcnQobGlzdCwgdW5pdE5hbWUpCiAgICBlbmQKICAgIHJldHVybiBsaXN0CmVuZAoKbG9jYWwgbGFiR3JvdXBzID0gewogICAgVDFfQm90ICAgICA9IHsiYXJtbGFiIiwiY29ybGFiIiwibGVnbGFiIn0sCiAgICBUMV9WZWhpY2xlID0geyJhcm12cCIsImNvcnZwIiwibGVndnAifSwKICAgIFQxX0FpciAgICAgPSB7ImFybWFwIiwiY29yYXAiLCJsZWdhcCJ9LAogICAgVDFfU2VhICAgICA9IHsiYXJtc3kiLCJjb3JzeSIsImxlZ3N5In0sCiAgICBUMV9BbXBoaWIgID0geyJhcm1hbXN1YiIsImNvcmFtc3ViIiwibGVnYW1waGxhYiJ9LAogICAgVDFfSG92ZXIgICA9IHsiYXJtaHAiLCJjb3JocCIsImxlZ2hwIn0sCiAgICBUMV9GSG92ZXIgID0geyJhcm1maHAiLCJjb3JmaHAiLCJsZWdmaHAifSwKCiAgICBUMl9Cb3QgICAgID0geyJhcm1hbGFiIiwiY29yYWxhYiIsImxlZ2FsYWIifSwKICAgIFQyX1ZlaGljbGUgPSB7ImFybWF2cCIsImNvcmF2cCIsImxlZ2F2cCJ9LAogICAgVDJfQWlyICAgICA9IHsiYXJtYWFwIiwiY29yYWFwIiwibGVnYWFwIn0sCiAgICBUMl9TZWEgICAgID0geyJhcm1hc3kiLCJjb3Jhc3kiLCJsZWdhc3kifSwKICAgIFQyX1NlYXBsYW5lPSB7ImFybXBsYXQiLCJjb3JwbGF0In0sCgogICAgVDNfR2FudHJ5ICA9IHsiYXJtc2hsdHgiLCJjb3JnYW50IiwibGVnZ2FudCJ9LAogICAgVDNfVVdHYW50cnkgPSB7ImFybXNobHR4dXciLCJjb3JnYW50dXcifSwKICAgIFQzX0FpciA9IHsiYXJtYXB0MyIsImNvcmFwdDMiLCJsZWdhcHQzIn0KfQoKZm9yIF8sIGxhYnMgaW4gcGFpcnMobGFiR3JvdXBzKSBkbwogICAgbG9jYWwgbWVyZ2VkID0gbWVyZ2VMYWJzKGxhYnMpCiAgICBmb3IgXywgbGFiIGluIGlwYWlycyhsYWJzKSBkbwogICAgICAgIGxvY2FsIHVEZWYgPSBVbml0RGVmc1tsYWJdCiAgICAgICAgaWYgdURlZiB0aGVuCiAgICAgICAgICAgIHVEZWYuYnVpbGRvcHRpb25zID0gbWVyZ2VkCiAgICAgICAgZW5kCiAgICBlbmQKZW5k
 ```
 ---
+</details>
 </details>
 
 
