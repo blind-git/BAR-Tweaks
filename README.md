@@ -13,8 +13,8 @@
 <details>
 <summary>Enable</summary>
 
-  <details>
-  >><summary>ConTurret Build Options</summary>
+  ><details>
+  <summary>ConTurret Build Options</summary>
   **File:** `enable-conturret-buildoptions.lua`  
   Adds additional build options to the ConTurret. 
   
