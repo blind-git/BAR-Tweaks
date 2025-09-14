@@ -12,7 +12,7 @@
 ## 📂 Tweaks
 <details>
 <summary>Enable</summary>
- ---
+ -----
 <details>
 <summary>ConTurret Build Options</summary>
  
@@ -61,6 +61,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 </details>
 <details>
 <summary>Disable</summary>
+ -----
 <details>
 <summary>Jamming & Stealth</summary>
  
@@ -85,6 +86,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 </details>
 </details>
 <details>
+ -----
 <summary>Modify</summary>
 <details>
 <summary>All Faction Commander</summary>
