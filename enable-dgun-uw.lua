@@ -1,4 +1,4 @@
--- Enable DGun underwater for all commanders
+--Enable DGun Underwater
 local commanders = {
     "armcom","corcom","legcom",
     "armcomlvl1","armcomlvl2","armcomlvl3","armcomlvl4","armcomlvl5",
