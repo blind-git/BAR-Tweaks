@@ -8,7 +8,7 @@ Use `!bset tweakdefs <base64>` (or `!bset tweakdefs1`, `!bset tweakdefs2`, etc.)
 
 ## 📂 Tweaks
 ### Enable
-  #### ConTurret Build Options
+>#### ConTurret Build Options
 **File:** `enable-conturret-buildoptions.lua`  
 Adds additional build options to the ConTurret.  
 ```
