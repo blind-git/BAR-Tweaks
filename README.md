@@ -16,8 +16,8 @@
 <details>
 <summary>ConTurret Build Options</summary>
  
-File: `enable-conturret-buildoptions.lua`  
-Adds additional build options to the ConTurret. 
+>File: `enable-conturret-buildoptions.lua`  
+>Adds additional build options to the ConTurret. 
  
 ```
 LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9jYWwgYiA9IHR5cGUoYSkKICAgIGxvY2FsIGMKICAgIGlmIGIgPT0gJ3RhYmxlJyB0aGVuCiAgICAgICAgYyA9IHt9CiAgICAgICAgZm9yIGQsIGUgaW4gbmV4dCwgYSwgbmlsIGRvIAogICAgICAgICAgICBjW2RlZXBjb3B5KGQpXSA9IGRlZXBjb3B5KGUpCiAgICAgICAgZW5kCiAgICAgICAgc2V0bWV0YXRhYmxlKGMsIGRlZXBjb3B5KGdldG1ldGF0YWJsZShhKSkpCiAgICBlbHNlIAogICAgICAgIGMgPSBhIAogICAgZW5kCiAgICByZXR1cm4gYyAKZW5kCgpsb2NhbCBVbml0RGVmcyA9IFVuaXREZWZzIG9yIHt9CmxvY2FsIGZhY3Rpb25zID0geydhcm0nLCAnY29yJywgJ2xlZyd9CgotLSBGaXJzdCBwYXJ0OiBUMSBuYW5vIHR1cnJldHMgZ2V0IFQxIGNvbnN0cnVjdG9yIGJ1aWxkb3B0aW9ucwpmb3IgXywgZmFjdGlvbiBpbiBpcGFpcnMoZmFjdGlvbnMpIGRvIAogICAgbG9jYWwgdDFOYW5vVW5pdHMgPSB7ZmFjdGlvbi4uJ25hbm90YycsIGZhY3Rpb24uLidyZXNwYXduJywgJ2xlZ25hbm90Y2Jhc2UnfQogICAgCiAgICBmb3IgXywgbmFub1VuaXQgaW4gaXBhaXJzKHQxTmFub1VuaXRzKSBkbyAKICAgICAgICBpZiBVbml0RGVmc1tuYW5vVW5pdF0gdGhlbiAKICAgICAgICAgICAgbG9jYWwgdDFCdWlsZE9wdGlvbnMgPSBkZWVwY29weShVbml0RGVmc1tmYWN0aW9uLi4nY2snXS5idWlsZG9wdGlvbnMpCiAgICAgICAgICAgIFVuaXREZWZzW25hbm9Vbml0XS5idWlsZG9wdGlvbnMgPSB7fQogICAgICAgICAgICBmb3IgaW5kZXgsIHVuaXROYW1lIGluIGlwYWlycyh0MUJ1aWxkT3B0aW9ucykgZG8gCiAgICAgICAgICAgICAgICBVbml0RGVmc1tuYW5vVW5pdF0uYnVpbGRvcHRpb25zW2luZGV4XSA9IHVuaXROYW1lIAogICAgICAgICAgICBlbmQgCiAgICAgICAgZW5kIAogICAgZW5kIAplbmQKCi0tIFNlY29uZCBwYXJ0OiBUMiBuYW5vIHR1cnJldHMgZ2V0IGV4dHJhIHVuaXRzCmZvciBfLCBmYWN0aW9uIGluIGlwYWlycyhmYWN0aW9ucykgZG8gCiAgICAtLSBVbml0cyB0aGF0IGFsbCBmYWN0aW9ucyBnZXQKICAgIGxvY2FsIGNvbW1vblQyVW5pdHMgPSB7CiAgICAgICAgZmFjdGlvbi4uJ2dhdGV0MycsICAgLS0gQWR2YW5jZWQgU2hpZWxkIEdlbmVyYXRvcgogICAgICAgIGZhY3Rpb24uLiduYW5vdGN0MicsIC0tIFQyIENvbnN0cnVjdG9yIFR1cnJldAogICAgICAgIGZhY3Rpb24uLid3aW50MicsICAgIC0tIFQyIFdpbmQgR2VuZXJhdG9yCiAgICAgICAgZmFjdGlvbi4uJ2FhcCcsICAgICAgLS0gVDIgQWlyY3JhZnQgUGxhbnQKICAgICAgICBmYWN0aW9uLi4nYXZwJyAgICAgICAtLSBUMiBWZWhpY2xlIFBsYW50CiAgICB9CiAgICAKICAgIC0tIEZhY3Rpb24tc3BlY2lmaWMgZXh0cmEgdW5pdHMKICAgIGxvY2FsIGZhY3Rpb25TcGVjaWZpY1VuaXRzID0ge30KICAgIGlmIGZhY3Rpb24gPT0gJ2FybScgdGhlbiAKICAgICAgICBmYWN0aW9uU3BlY2lmaWNVbml0cyA9IHsnYXJtbWluaXZ1bGMnLCAnYXJtYm90cmFpbCcsICdhcm1hbm5pdDMnLCAnYXJtc2hvY2t3YXZlJywgJ2FybWx3YWxsJ30KICAgIGVsc2VpZiBmYWN0aW9uID09ICdjb3InIHRoZW4gCiAgICAgICAgZmFjdGlvblNwZWNpZmljVW5pdHMgPSB7J2Nvcm1pbmlidXp6JywgJ2NvcmhsbGxsdCcsICdjb3Jkb29tdDMnLCAnY29ybXdhbGwnfQogICAgZWxzZWlmIGZhY3Rpb24gPT0gJ2xlZycgdGhlbiAKICAgICAgICBmYWN0aW9uU3BlY2lmaWNVbml0cyA9IHsnbGVnbW9ob2NvbicsICdsZWdyd2FsbCd9CiAgICBlbmQKICAgIAogICAgLS0gQ29tYmluZSBhbGwgdW5pdHMgdG8gYWRkCiAgICBsb2NhbCBhbGxVbml0c1RvQWRkID0ge30KICAgIGZvciBfLCB1bml0TmFtZSBpbiBpcGFpcnMoY29tbW9uVDJVbml0cykgZG8gCiAgICAgICAgdGFibGUuaW5zZXJ0KGFsbFVuaXRzVG9BZGQsIHVuaXROYW1lKQogICAgZW5kCiAgICBmb3IgXywgdW5pdE5hbWUgaW4gaXBhaXJzKGZhY3Rpb25TcGVjaWZpY1VuaXRzKSBkbyAKICAgICAgICB0YWJsZS5pbnNlcnQoYWxsVW5pdHNUb0FkZCwgdW5pdE5hbWUpCiAgICBlbmQKICAgIAogICAgLS0gQXBwbHkgdG8gVDIgbmFubyB0dXJyZXQKICAgIGxvY2FsIHQyTmFub1VuaXQgPSBmYWN0aW9uLi4nbmFub3RjdDInCiAgICBpZiBVbml0RGVmc1t0Mk5hbm9Vbml0XSB0aGVuIAogICAgICAgIC0tIFN0YXJ0IHdpdGggVDIgY29uc3RydWN0b3IgYnVpbGRvcHRpb25zIGFzIGJhc2UKICAgICAgICBVbml0RGVmc1t0Mk5hbm9Vbml0XS5idWlsZG9wdGlvbnMgPSBkZWVwY29weShVbml0RGVmc1tmYWN0aW9uLi4nYWNrJ10uYnVpbGRvcHRpb25zKQogICAgICAgIAogICAgICAgIC0tIEFkZCBhbGwgdGhlIGV4dHJhIHVuaXRzCiAgICAgICAgZm9yIF8sIHVuaXROYW1lIGluIGlwYWlycyhhbGxVbml0c1RvQWRkKSBkbyAKICAgICAgICAgICAgdGFibGUuaW5zZXJ0KFVuaXREZWZzW3QyTmFub1VuaXRdLmJ1aWxkb3B0aW9ucywgdW5pdE5hbWUpCiAgICAgICAgZW5kIAogICAgZW5kIAplbmQ
@@ -39,7 +39,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <details>
 <summary>Reverse Gear</summary>
  
-**File:** `enable-reversegear.lua`  
+>**File:** `enable-reversegear.lua`  
 >Enables reverse gear functionality for vehicles.  
  
 ```
@@ -49,7 +49,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 </details>
 <details>
 <summary>Extra Units Lite Pack</summary>
-**File:** `enable-extraunitslite.lua`
+>**File:** `enable-extraunitslite.lua`
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
   
 ```
@@ -63,7 +63,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 <details>
 <summary>Jamming & Stealth</summary>
  
-**File:** `disable-jammingstealthy.lua`  
+>**File:** `disable-jammingstealthy.lua`  
 >Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
   
 ```
@@ -74,7 +74,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 <details>
 <summary>Tyrannus / Dragon</summary>
  
-**File:** `disable-tyrannusdragon.lua`  
+>**File:** `disable-tyrannusdragon.lua`  
 >Removes Tyrannus and Dragon units from Advanced Air Labs.  
   
 ```
@@ -88,7 +88,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <details>
 <summary>All Faction Commander</summary>
  
-**File:** `mod-allfactioncom.lua`  
+>**File:** `mod-allfactioncom.lua`  
 >Allows **all commanders** to build any factions T1 Lab.  
 >✔ Supports evolving commanders.  
   
@@ -100,7 +100,7 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 <details>
 <summary>Faction Agnostic Labs</summary>
  
-**File:** `mod-factionagnostic.lua`  
+>**File:** `mod-factionagnostic.lua`  
 >Allows **all labs** to build all factions units of the same tier and type.  
   
 ```
