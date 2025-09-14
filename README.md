@@ -63,7 +63,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 <details>
  -----
 <summary>Disable</summary>
- -----
+
 <details>
 <summary>Jamming & Stealth</summary>
  
