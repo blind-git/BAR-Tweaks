@@ -1,4 +1,4 @@
---ConTurret BuildOptions
+--Enable ConTurret BuildOptions
 function deepcopy(a)
     local b = type(a)
     local c
