@@ -5,7 +5,7 @@
 
 ## 🛠 Usage
 
->Use `!bset tweakdefs <base64>` (or `!bset tweakdefs1`, `!bset tweakdefs2`, etc.) to apply >them in game.
+>Use `!bset tweakdefs <base64>` (or `!bset tweakdefs1`, `!bset tweakdefs2`, etc.) to apply them in game.
 >Use tweakunits as needed check notes. (eg; extra unit lite pack)
 ---
 
