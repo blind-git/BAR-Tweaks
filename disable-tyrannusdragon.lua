@@ -1,4 +1,4 @@
--- Disable Tyrannus/Dragon
+--Disable Tyrannus/Dragon
 
 local legaap = UnitDefs["legaap"]
 if legaap and legaap.buildoptions then
