@@ -1,4 +1,4 @@
--- No Jamming/Stealth
+--Disable Jamming/Stealthy
 for unitName, uDef in pairs(UnitDefs) do
     if uDef.radardistancejam and uDef.radardistancejam > 0 then
         uDef.radardistancejam = 0
