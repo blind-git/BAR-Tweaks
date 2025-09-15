@@ -25,6 +25,7 @@
 <details>
 <summary><h3>🎮 Lobby Commands</h3></summary>
 
+>
 >  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
 > 
 >  Ensure each command is on its own line if pasting multiple at once.
@@ -35,6 +36,20 @@
 !bset tweakunits1 <base64>
 !bset tweakunits2 <base64> ...etc
 ```
+
+</details>
+
+<details>
+<summary><h3>Resources</h3></summary>
+
+>
+> To learn how to make your own tweaks check out badosu's guide.
+>
+> - 📘 [**How to Tweak Guide**](https://gist.github.com/badosu/f2617db52e7486a7769366642d354a01)
+>
+> If you've adjusted or made your own code use a base64 encoder to be able to apply the mod in game.
+>
+> - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
 
 </details>
 
