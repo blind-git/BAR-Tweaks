@@ -24,11 +24,11 @@
 
 <details>
 <summary><strong> 🎮 Lobby Commands</strong></summary>
->
+
 >  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
 > 
 >  Ensure each command is on its own line if pasting multiple at once.
->
+
 ```
 !bset tweakdefs1 <base64>
 !bset tweakdefs2 <base64> ...etc
@@ -77,20 +77,20 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 > - 🔧 **Usage:** `!bset tweakunits <base64>`
 >
 > - ℹ️ **Info:**
-> Enables extra units lite pack.
-> 
-> Designed to be used without official extra units pack mod option in game.
+>> Enables extra units lite pack.
+>>
+>> Designed to be used without official extra units pack mod option in game.
 >
 > - **New Units:**
 >
-> | Tier | Units |
-> |------|--------|
-> | **T1** | **Armada:** ZAPPER (EMP Scout - enhanced speed/health) |
-> | **T2 Bots** | **Cortex:** DEADEYE (Sniper) |
-> | **T2 Vehicles** | **Cortex:** SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) |
-> | **T3** | **Armada:** MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) |
-> | **T2 Constructors** | **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)<br>**Cortex/Legion:** T2 Construction Turret • DRAGON'S RAGE (T2 Popup Turret) |
-> | **T2 Buildings** | T2 Floating Construction Turret • All default extra unit static defense • No T3 Eco |
+>> | Tier | Units |
+>> |------|--------|
+>> | **T1** | **Armada:** ZAPPER (EMP Scout - enhanced speed/health) |
+>> | **T2 Bots** | **Cortex:** DEADEYE (Sniper) |
+>> | **T2 Vehicles** | **Cortex:** SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) |
+>> | **T3** | **Armada:** MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) |
+>> | **T2 Constructors** | **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)<br>**Cortex/Legion:** T2 Construction Turret • DRAGON'S RAGE (T2 Popup Turret) |
+>> | **T2 Buildings** | T2 Floating Construction Turret • All default extra unit static defense • No T3 Eco |
 > 
 > - **Code:**
 ```
@@ -104,12 +104,12 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 -----
  
-- 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
-
-- 🔧 **Usage:** `!bset tweakdefs <base64>`
-
-- ℹ️ **Info:**
-> Enables reverse gear functionality for vehicles.  
+> - 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
+>
+> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+>
+> - ℹ️ **Info:**
+>> Enables reverse gear functionality for vehicles.  
  
 ```
 LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
