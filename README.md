@@ -47,8 +47,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
 **Usage:** `!bset tweakunits <base64>`
->Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
->Designed to be used without official extra units pack mod option in game.
+>Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
 
 **New Units:**
 
