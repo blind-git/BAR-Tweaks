@@ -7,7 +7,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 [![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/stargazers)
 [![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/beyond-all-reason)
 [![BAR Discord](https://img.shields.io/badge/BAR-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)
-[![Blind's Discord](https://img.shields.io/badge/ADHD-BlinD's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
+[![Blind's Discord](https://img.shields.io/badge/ADHD%20BlinD's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
 
 
 ---
