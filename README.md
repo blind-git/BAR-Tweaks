@@ -25,7 +25,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 
 ## 📂 Tweaks
 -----
-### Enable or Add<details><summary></summary>
+### Enable or Add <details><summary></summary>
   
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
