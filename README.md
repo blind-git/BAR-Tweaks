@@ -138,8 +138,6 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 </details>
 </details>
 
------
-
 <details><summary><h3><strong> ❌ Disable or Remove</strong></h3></summary>
 
 ##
