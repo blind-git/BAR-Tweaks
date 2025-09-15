@@ -26,8 +26,7 @@ Use `!bset tweakdefs1`, `!bset tweakdefs2`, etc. for multiple configurations
 ```
 
 ## 📂 Tweaks
-<details>
-<summary><strong>Enable</strong></summary>
+### Enable
  -----
 <details>
 <summary>ConTurret Build Options</summary>
@@ -89,7 +88,6 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 ---
 </details>
 -----
-</details>
 <details>
  -----
 <summary>Disable</summary>
