@@ -68,6 +68,8 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 
 <details>
 <summary><strong>Extra Units Lite Pack</strong></summary>
+
+-----
  
 - 📝 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
@@ -98,6 +100,8 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 <details>
 <summary><strong>Reverse Gear</strong></summary>
+
+-----
  
 - 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 
@@ -137,6 +141,8 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <br>
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
+
+-----
  
  - 📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 
@@ -153,6 +159,8 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 </details>
 <details>
 <summary><strong>Tyrannus / Dragon</strong></summary>
+
+-----
  
 - 📝 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
 
@@ -177,6 +185,8 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
 
+-----
+
 - 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 
 - **Usage:** `!bset tweakdefs <base64>`
@@ -193,8 +203,10 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 
 <details>
 <summary><strong>Omni Faction Commanders</strong></summary>
+
+-----
  
-- 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
+- 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua)
 
 - **Usage:** `!bset tweakdefs <base64>`
 
@@ -216,6 +228,8 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 
 <details>
 <summary><strong>Regenerative Alloys</strong></summary>
+
+-----
  
 - 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
 
@@ -240,7 +254,9 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 <details>
  <summary><strong>Scavboss Commander Weapons</strong></summary>
 
-- 📝 *File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
+ -----
+
+- 📝 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
 
 - **Usage:** `!bset tweakdefs <base64>`
 
