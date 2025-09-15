@@ -29,7 +29,7 @@ Use `!bset tweakdefs1`, `!bset tweakdefs2`, etc. for multiple configurations
 ### Enable
  -----
 <details>
-<summary>ConTurret Build Options</summary>
+<summary><strong>ConTurret Build Options</strong></summary>
  
 >File: `enable-conturret-buildoptions.lua`  
 >Adds additional build options to the ConTurret. 
