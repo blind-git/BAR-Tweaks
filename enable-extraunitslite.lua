@@ -1,4 +1,4 @@
---Enable Extra Units Lite Pack
+--Enable Extra Units Lite
 {
 armzapper = {
 health = 280,
@@ -309,6 +309,17 @@ buildoptions = {
 [31] = "armshltx",
 [32] = "armnanotct2",
 [33] = "armshockwave",
+},
+},
+armacsub = {
+buildoptions = {
+[16] = "armnanotc2plat",
+},
+},
+coracsub = {
+buildoptions = {
+[16] = "cornanotc2plat",
+[17] = "legnanotc2plat",
 },
 },
 corvac = {
