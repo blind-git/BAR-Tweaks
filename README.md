@@ -44,9 +44,8 @@
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
 <details>
 <summary><h4><strong>ConTurret Build Options</strong></h4></summary>
-  
------
-  
+
+>
 >  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 >
 >  🔧 **Usage:** `!bset tweakdefs <base64>`
