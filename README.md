@@ -43,7 +43,7 @@
 ## 📂 Tweaks
 
 
-<details><summary> ✅ **Enable or Add**</summary>
+<details><summary> ✅ <strong>Enable or Add</strong></summary>
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
@@ -137,7 +137,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 </details>
 </details>
 <br>
-<details><summary> ❌ **Disable or Remove**</summary>
+<details><summary> ❌ <strong>Disable or Remove</strong></summary>
 <br>
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
@@ -176,7 +176,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 </details>
 <br>
-<details><summary> 🛠️ **Modify or Tweak**</summary>
+<details><summary> 🛠️ <strong>Modify or Tweak</strong></summary>
 <br>
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
