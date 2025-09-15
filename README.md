@@ -23,7 +23,7 @@
 ## <h2><strong> 🛠 Usage</strong></h2>
 
 <details>
-<summary><strong> 🎮 Lobby Commands</strong></summary>
+<summary><h3><strong> 🎮 Lobby Commands</strong></h3></summary>
 
 >  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
 > 
@@ -46,7 +46,7 @@
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
   <br>
 <details>
-<summary><strong>ConTurret Build Options</strong></summary>
+<summary><strong><h4>ConTurret Build Options</h4></strong></summary>
   
 -----
   
