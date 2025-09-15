@@ -39,9 +39,9 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 ---
 </details>
 <details>
-<summary>Regenerative Alloys</summary>
+<summary><strong>Regenerative Alloys</strong></summary>
  
-File: `enable-regenerative-alloys.lua`  
+**File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua)  
 >Adds autoheal and idle-autoheal to all units and buildings.
 >Adds 10% autoheal to units that already could.
 >Buff all unit health by 20%
