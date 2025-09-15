@@ -40,13 +40,13 @@
 
 -----
 
-## <h1><strong> 📂 Tweaks</h2></strong>
+## <h1><strong> 📂 Tweaks</strong></h2>
 
 
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
   <br>
 <details>
-<summary><strong><h4>ConTurret Build Options</h4></strong></summary>
+<summary><h4><strong>ConTurret Build Options</strong></h4></summary>
   
 -----
   
