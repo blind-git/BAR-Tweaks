@@ -46,7 +46,7 @@
 <details><summary> ✅ <strong>Enable or Add</strong></summary>
   <br>
 > <details>
-> <summary><strong>ConTurret Build Options</strong></summary>
+<summary><strong>ConTurret Build Options</strong></summary>
 
 -----
   
