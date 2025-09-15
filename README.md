@@ -55,9 +55,10 @@
 > -  🔧 **Usage:** `!bset tweakdefs <base64>`
 >
 > - ℹ️ **Info:**
-> Adds T1 and T2 build options to their relevant tiers ConTurret. 
+>   
+> - - Adds T1 and T2 build options to their relevant tiers ConTurret. 
 >
-> Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
+> - - Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
 >
 > - **Code:**
 ```
