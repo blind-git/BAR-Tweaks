@@ -33,6 +33,8 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 ```
 </details>
 
+-----
+
 ## 📂 Tweaks
 
 -----
