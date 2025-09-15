@@ -35,7 +35,9 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-> Adds additional build options to the ConTurret. 
+> Adds T1 and T2 build options to their relevant tiers ConTurret. 
+
+> Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
 
 **Code:**
 ```
@@ -63,6 +65,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 | **T2 Vehicles** | **Cortex:** SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) |
 | **T3** | **Armada:** MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) |
 | **T2 Constructors** | **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)<br>**Cortex/Legion:** T2 Construction Turret • DRAGON'S RAGE (T2 Popup Turret) |
+| **T2 Buildings** | T2 Floating Construction Turret • All default extra unit static defense • No T3 Eco |
 
 **Code:**
 ```
