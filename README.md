@@ -65,7 +65,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ---
 </details>
 <details>
-<summary>Reverse Gear</summary>
+<summary><strong>Reverse Gear</strong></summary>
  
 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 >Enables reverse gear functionality for vehicles.  
