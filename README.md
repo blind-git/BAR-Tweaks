@@ -68,7 +68,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 </details>
 
 <details>
-<summary><strong>Extra Units Lite Pack</strong></summary>
+<summary><h4><strong>Extra Units Lite Pack</strong></h4></summary>
 
 -----
  
@@ -100,7 +100,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 </details>
 
 <details>
-<summary><strong>Reverse Gear</strong></summary>
+<summary><h4><strong>Reverse Gear</strong></h4></summary>
 
 -----
  
@@ -119,7 +119,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 </details>
 
 <details>
-<summary><strong>Underwater DGun</strong></summary>
+<summary><h4><strong>Underwater DGun</strong></h4></summary>
 
 -----
  
@@ -145,7 +145,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <details><summary><h3><strong> ❌ Disable or Remove</strong></h3></summary>
 <br>
 <details>
-<summary><strong>Jamming & Stealth</strong></summary>
+<summary><h4><strong>Jamming & Stealth</strong></h4></summary>
 
 -----
  
@@ -163,7 +163,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 ---
 </details>
 <details>
-<summary><strong>Tyrannus / Dragon</strong></summary>
+<summary><h4><strong>Tyrannus / Dragon</strong></h4></summary>
 
 -----
  
@@ -188,7 +188,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <details><summary><h3><strong> 🛠️ Modify or Tweak</strong></h3></summary>
 <br>
 <details>
-<summary><strong>Faction Agnostic Labs</strong></summary>
+<summary><h4><strong>Faction Agnostic Labs</strong></h4></summary>
 
 -----
 
@@ -207,7 +207,7 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 </details>
 
 <details>
-<summary><strong>Omni Faction Commanders</strong></summary>
+<summary><h4><strong>Omni Faction Commanders</strong></h4></summary>
 
 -----
  
@@ -232,7 +232,7 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 </details>
 
 <details>
-<summary><strong>Regenerative Alloys</strong></summary>
+<summary><h4><strong>Regenerative Alloys</strong></h4></summary>
 
 -----
  
@@ -257,7 +257,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 </details>
 
 <details>
- <summary><strong>Scavboss Commander Weapons</strong></summary>
+ <summary><h4><strong>Scavboss Commander Weapons</strong></h4></summary>
 
  -----
 
