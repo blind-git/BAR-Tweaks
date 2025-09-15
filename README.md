@@ -1,7 +1,7 @@
 
 -----
 
-#  🤖 BAR-Tweaks
+#  🤖 <h1>BAR-Tweaks</h1>
 
 - Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.
 - Enable, disable, or modify units, buildings, weapons, and game mechanics
@@ -40,10 +40,10 @@
 
 -----
 
-## 📂 Tweaks
+## <h2> 📂 Tweaks</h2>
 
 
-<details><summary><h3> ✅ <strong>Enable or Add</h3></strong></summary>
+<details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
