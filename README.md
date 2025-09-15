@@ -188,6 +188,10 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 
 **Details:**
 > Allows **all commanders** to build any factions T1 Lab.
+>
+> Allows **commanders level1-4** to build all unique T1 factions mex (Armed Exploiter, Cloakable Metal Extractor, Overcharged Metal Extractor)
+>
+> Allows **commanders level5-10** to build all unique T2 factions mex (Advanced Armed Exploiter, Shockwave Metal Extractor, Advanced Metal Fortifier) and advanced geothermal. (Cerberus/Rampart)
 > 
 > ✔ Supports evolving commanders.  
 
