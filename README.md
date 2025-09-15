@@ -20,7 +20,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 ## 🛠 Usage
 
 <details>
-<summary><strong> 🎮 Lobby Commands:</strong></summary>
+<summary><strong> 🎮 Lobby Commands</strong></summary>
  
 >  To apply tweaks use the tweakdefs or tweakunits commands.
 >  Ensure each command is on its own line if pasting multiple at once.
