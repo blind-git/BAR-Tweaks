@@ -4,7 +4,7 @@
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
 <p align="center">
-  <img src="https://us2-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fassets-global.website-files.com%2F5c69241780da2a1dfc6caa4e%2F6616789a209e67cc38910caa_Hooray1-min.jpg&sp=1757929695T63293b5728b79923b0c14b54677fae3fa8049a1ae7c96be5303eec4e076134c6" alt="Hooray Banner" width="800"/>
+  <img src="https://us2-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fassets-global.website-files.com%2F5c69241780da2a1dfc6caa4e%2F6616789a209e67cc38910caa_Hooray1-min.jpg" alt="Hooray Banner" width="800"/>
 </p>
 
 [![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/issues)
