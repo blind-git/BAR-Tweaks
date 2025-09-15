@@ -31,6 +31,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 <summary><strong>ConTurret Build Options</strong></summary>
  
 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
+
 **Usage:** `!bset tweakdefs <base64>`
 >Adds additional build options to the ConTurret. 
  
@@ -44,6 +45,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 <summary><strong>Extra Units Lite Pack</strong></summary>
  
 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
+
 **Usage:** `!bset tweakunits <base64>`
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
 >Designed to be used without official extra units pack mod option in game.
@@ -67,7 +69,8 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 <details>
 <summary><strong>Regenerative Alloys</strong></summary>
  
-**File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua)  
+**File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua) 
+
 **Usage:** `!bset tweakdefs <base64>`
 >Adds autoheal and idle-autoheal to all units and buildings.
 >Adds 10% autoheal to units that already could.
@@ -84,6 +87,8 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 <summary><strong>Reverse Gear</strong></summary>
  
 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
+
+**Usage:** `!bset tweakdefs <base64>`
 >Enables reverse gear functionality for vehicles.  
  
 ```
@@ -116,6 +121,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <summary><strong>Jamming & Stealth</strong></summary>
  
 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
+
 **Usage:** `!bset tweakdefs <base64>`
 >Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
   
@@ -128,6 +134,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 <summary><strong>Tyrannus / Dragon</strong></summary>
  
 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
+
 **Usage:** `!bset tweakdefs <base64>`
 >Removes Tyrannus and Dragon units from Advanced Air Labs.  
   
@@ -147,6 +154,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <summary><strong>All Faction Commander</strong></summary>
  
 **File:** [`mod-allfactioncom.lua`](mod-allfactioncom.lua) 
+
 **Usage:** `!bset tweakdefs <base64>`
 >Allows **all commanders** to build any factions T1 Lab.  
 >✔ Supports evolving commanders.  
@@ -159,7 +167,8 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
  
->**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)  
+>**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
+>
 **Usage:** `!bset tweakdefs <base64>`
 >Allows **all labs** to build all factions units of the same tier and type.  
   
