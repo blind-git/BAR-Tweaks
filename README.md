@@ -29,7 +29,7 @@ Use `!bset tweakdefs1`, `!bset tweakdefs2`, etc. for multiple configurations
 ### Enable
  -----
 <details>
-<summary><strong>ConTurret Build Options</strong></summary>
+<summary>ConTurret Build Options</summary>
  
 >File: `enable-conturret-buildoptions.lua`  
 >Adds additional build options to the ConTurret. 
@@ -90,7 +90,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 -----
 <details>
  -----
-<summary>Disable</summary>
+### Disable
 
 <details>
 <summary>Jamming & Stealth</summary>
@@ -115,7 +115,6 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 ---
 </details>
 -----
-</details>
 <details>
  -----
 <summary>Modify</summary>
