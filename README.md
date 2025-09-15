@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary><h3>Resources</h3></summary>
+<summary><h3> 📚 Resources</h3></summary>
 
 >
 > To learn how to make your own tweaks check out badosu's guide.
