@@ -19,8 +19,6 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 
 ## 🛠 Usage
 
------
-
 <details>
 <summary><strong>Lobby Commands:</strong></summary>
  
@@ -36,6 +34,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 </details>
 
 ## 📂 Tweaks
+
 -----
 ### Enable or Add 
 <details><summary></summary>
