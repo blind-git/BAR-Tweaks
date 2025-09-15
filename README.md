@@ -11,8 +11,9 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 ## 🛠 Usage
 <details>
 <summary>Lobby Commands:</summary>
->To apply tweaks use the tweakdefs or tweakunits commands.
->Ensure each command is on its own line if pasting multiple at once.
+ 
+> To apply tweaks use the tweakdefs or tweakunits commands.
+> Ensure each command is on its own line if pasting multiple at once.
  
 ```
 !bset tweakdefs1 <base64>
