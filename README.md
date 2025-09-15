@@ -1,3 +1,4 @@
+-----
 # BAR-Tweaks
 
 **Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/)**  
