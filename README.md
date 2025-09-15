@@ -3,8 +3,8 @@
 
 #  🤖 BAR-Tweaks
 
-- Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.
-- Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
+- Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.
+- Enable, disable, or modify units, buildings, weapons, and game mechanics
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
@@ -25,7 +25,8 @@
 <details>
 <summary><strong> 🎮 Lobby Commands</strong></summary>
  
->  To apply tweaks use the tweakdefs or tweakunits commands.
+>  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
+> 
 >  Ensure each command is on its own line if pasting multiple at once.
  
 ```
@@ -34,6 +35,7 @@
 !bset tweakunits1 <base64>
 !bset tweakunits2 <base64> ...etc
 ```
+
 </details>
 
 -----
