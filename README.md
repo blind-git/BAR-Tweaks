@@ -64,6 +64,17 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 ```
 ---
 </details>
+
+<summary><strong>Reverse Gear</strong></summary>
+ 
+**File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
+>Enables reverse gear functionality for vehicles.  
+ 
+```
+LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
+```
+---
+</details>
 <details>
 <summary><strong>Underwater DGun</strong></summary>
  
@@ -77,17 +88,6 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ---
 </details>
 <details>
-<summary><strong>Reverse Gear</strong></summary>
- 
-**File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
->Enables reverse gear functionality for vehicles.  
- 
-```
-LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
-```
----
-</details>
-
 -----
 
 ### Disable
