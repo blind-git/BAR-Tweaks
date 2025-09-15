@@ -47,6 +47,8 @@
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
+
+-----
   
 - 📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
