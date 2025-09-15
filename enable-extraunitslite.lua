@@ -1,4 +1,4 @@
---Enable Extra Units Lite Pack
+--Enable Extra Units Lite
 {
 armzapper = {
 health = 280,
