@@ -3,7 +3,7 @@
 **Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/)**  
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
        alt="Banner" />
 </p>
