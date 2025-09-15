@@ -127,7 +127,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 -----
 
 ### Disable or Remove
-<details><summary></summary>
+<details><summary>❌</summary>
 
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
