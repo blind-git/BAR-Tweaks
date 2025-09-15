@@ -12,8 +12,8 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 <details>
 <summary><strong>Lobby Commands:</strong></summary>
  
--  To apply tweaks use the tweakdefs or tweakunits commands.
--  Ensure each command is on its own line if pasting multiple at once.
+>  To apply tweaks use the tweakdefs or tweakunits commands.
+>  Ensure each command is on its own line if pasting multiple at once.
  
 ```
 !bset tweakdefs1 <base64>
@@ -52,7 +52,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 **Usage:** `!bset tweakunits <base64>`
 
 **Details:**
-- Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
+> Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
 
 **New Units:**
 
@@ -102,7 +102,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Enables reverse gear functionality for vehicles.  
+> Enables reverse gear functionality for vehicles.  
  
 ```
 LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
@@ -117,8 +117,8 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Allows all commanders to use DGun underwater.  
-- ⚠️ DGun projectiles above water do not affect submersibles.  
+> Allows all commanders to use DGun underwater.  
+> ⚠️ DGun projectiles above water do not affect submersibles.  
 
 **Code:**
 ```
@@ -141,7 +141,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
+> Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
 
 **Code:**
 ```
@@ -157,7 +157,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Removes Tyrannus and Dragon units from Advanced Air Labs.  
+> Removes Tyrannus and Dragon units from Advanced Air Labs.  
 
 **Code:**
 ```
@@ -180,7 +180,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Allows **all labs** to build all factions units of the same tier and type.  
+> Allows **all labs** to build all factions units of the same tier and type.  
 
 **Code:**
 ```
@@ -197,8 +197,8 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Allows **all commanders** to build any factions T1 Lab.  
-- ✔ Supports evolving commanders.  
+> Allows **all commanders** to build any factions T1 Lab.  
+> ✔ Supports evolving commanders.  
 
 **Code:**
 ```
@@ -215,8 +215,8 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Gives all commanders all the scavenger boss weapons.
-- Yes this is ridiculous. Yes this works with evolving commanders.
+> Gives all commanders all the scavenger boss weapons.
+> Yes this is ridiculous. Yes this works with evolving commanders.
 
 **Code:**
 ```
