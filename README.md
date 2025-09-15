@@ -10,7 +10,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 
 ## 🛠 Usage
 <details>
-<summary>Lobby Commands:</summary>
+<summary><strong>Lobby Commands:</strong></summary>
  
 > To apply tweaks use the tweakdefs or tweakunits commands.
 > Ensure each command is on its own line if pasting multiple at once.
@@ -76,7 +76,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 ---
 </details>
 <details>
-<summary>Extra Units Lite Pack</summary>
+<summary><strong>Extra Units Lite Pack</strong></summary>
  
 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
@@ -135,7 +135,7 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 ---
 </details>
 <details>
-<summary>Faction Agnostic Labs</summary>
+<summary><strong>Faction Agnostic Labs</strong></summary>
  
 >**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)  
 >Allows **all labs** to build all factions units of the same tier and type.  
