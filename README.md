@@ -1,7 +1,12 @@
 # BAR-Tweaks
 
->Lua script tweaks for **Beyond All Reason (BAR)**.  
->These scripts enable/disable add/remove modify/tweak the game. 
+**Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/)**
+Transform your BAR gameplay experience with custom scripts that enable, disable, add, remove, modify, and tweak various game aspects.
+
+[![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks)](https://github.com/blind-git/BAR-Tweaks/issues)
+[![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks)](https://github.com/blind-git/BAR-Tweaks/stargazers)
+
+---
 
 ## 🛠 Usage
 
