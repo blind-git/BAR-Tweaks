@@ -38,6 +38,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 ```
 ---
 </details>
+
 <details>
 <summary><strong>Extra Units Lite Pack</strong></summary>
  
@@ -64,7 +65,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 ```
 ---
 </details>
-
+<details>
 <summary><strong>Reverse Gear</strong></summary>
  
 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
