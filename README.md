@@ -45,16 +45,16 @@
 
 <details><summary> ✅ <strong>Enable or Add</strong></summary>
   <br>
-<details>
-<summary><strong>ConTurret Build Options</strong></summary>
+> <details>
+> <summary><strong>ConTurret Build Options</strong></summary>
 
------
+> -----
   
--  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
+> -  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
--  🔧 **Usage:** `!bset tweakdefs <base64>`
+> -  🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- ℹ️ **Info:**
+> - ℹ️ **Info:**
 > Adds T1 and T2 build options to their relevant tiers ConTurret. 
 >
 > Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
