@@ -4,7 +4,10 @@
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/713/287/823/beyond-all-reason-war-robots-real-time-strategy-strategy-games-hd-wallpaper-preview.jpg" alt="Oops" width="800"/>
+  <img src="https://c4.wallpaperflare.com/wallpaper/713/287/823/beyond-all-reason-war-robots-real-time-strategy-strategy-games-hd-wallpaper-preview.jpg" 
+       alt="BAR Banner" 
+       width="800" 
+       style="max-height:200px;"/>
 </p>
 
 [![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/issues)
