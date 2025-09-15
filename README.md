@@ -4,10 +4,8 @@
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
 <p align="center">
-  <img src="https://tiermaker.com/images/templates/beyond-all-reason-armada-units-15763215/157632151683121534.png" 
-       alt="BAR Banner" 
-       width="800" 
-       height="400"/>
+  <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
+       alt="Banner" />
 </p>
 
 [![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/issues)
