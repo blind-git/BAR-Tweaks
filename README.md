@@ -156,9 +156,9 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 -----
 
 <details>
-<summary><strong>All Faction Commander</strong></summary>
+<summary><strong>Omni Faction Commanders</strong></summary>
  
-**File:** [`mod-allfactioncom.lua`](mod-allfactioncom.lua) 
+**File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
 >Allows **all commanders** to build any factions T1 Lab.  
