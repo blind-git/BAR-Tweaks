@@ -17,10 +17,7 @@
 [![BAR Discord](https://img.shields.io/badge/BAR-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)
 [![Blind's Discord](https://img.shields.io/badge/ADHD%20BlinD's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
 
-
 ---
-
-## 
 
 <details><summary><h2><strong> 🛠 Usage</strong></h2></summary>
 
@@ -44,7 +41,6 @@
 -----
 
 </details>
-##
 
 <details><summary><h2><strong> 📂 Tweaks</strong></h2></summary>
 
