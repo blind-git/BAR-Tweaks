@@ -38,7 +38,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 ## 📂 Tweaks
 
 
-<details><summary>Enable or Add ✅</summary>
+<details><summary> ✅ Enable or Add</summary>
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
