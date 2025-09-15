@@ -242,8 +242,9 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 -----
 
-🔗 **Beyond All Reason resources:**  
-- [BAR GitHub](https://github.com/beyond-all-reason)  
-- [BAR Discord](https://discord.gg/beyond-all-reason)  
+## 🔗 Beyond All Reason
+[![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-blue?logo=github)](https://github.com/beyond-all-reason)  
+[![BAR Discord](https://img.shields.io/badge/Join%20the%20Community-Discord-blueviolet?logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)
+
 
 
