@@ -123,7 +123,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ---
 </details>
 </details>
-
+<br>
 <details><summary> ❌ Disable or Remove</summary>
 <br>
 <details>
@@ -160,7 +160,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 </details>
 
 </details>
-
+<br>
 <details><summary> 🛠️ Modify or Tweak</summary>
 <br>
 <details>
