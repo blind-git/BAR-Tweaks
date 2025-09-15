@@ -88,7 +88,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 ```
 ---
 </details>
- 
+-----
 ### Disable
 -----
 
@@ -114,7 +114,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 ```
 ---
 </details>
-
+-----
 ### Modify
 -----
 
