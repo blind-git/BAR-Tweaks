@@ -20,7 +20,9 @@
 
 ---
 
-## <h2><strong> 🛠 Usage</strong></h2>
+## 
+
+<details><summary><h2><strong> 🛠 Usage</strong></h2></summary>
 
 <details>
 <summary><h3>🎮 Lobby Commands</h3></summary>
@@ -41,6 +43,7 @@
 
 -----
 
+</details>
 ##
 
 <details><summary><h2><strong> 📂 Tweaks</strong></h2></summary>
@@ -291,8 +294,6 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 > - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
 
 </details>
-
-##
 
 -----
 
