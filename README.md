@@ -53,9 +53,9 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 ---
 </details>
 <details>
-<summary>Underwater DGun</summary>
+<summary><strong>Underwater DGun</strong></summary>
  
-File: `enable-dgun-uw.lua`  
+**File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
 >Allows all commanders to use DGun underwater.  
 >⚠️ DGun projectiles above water do not affect submersibles.  
   
@@ -67,7 +67,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <details>
 <summary>Reverse Gear</summary>
  
->**File:** `enable-reversegear.lua`  
+**File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 >Enables reverse gear functionality for vehicles.  
  
 ```
@@ -78,7 +78,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 <details>
 <summary>Extra Units Lite Pack</summary>
  
->**File:** `enable-extraunitslite.lua`
+**File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
   
 ```
@@ -94,9 +94,9 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 -----
 
 <details>
-<summary>Jamming & Stealth</summary>
+<summary><strong>Jamming & Stealth</strong></summary>
  
->**File:** `disable-jammingstealthy.lua`  
+**File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 >Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
   
 ```
@@ -105,9 +105,9 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 ---
 </details>
 <details>
-<summary>Tyrannus / Dragon</summary>
+<summary><strong>Tyrannus / Dragon</strong></summary>
  
->**File:** `disable-tyrannusdragon.lua`  
+**File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
 >Removes Tyrannus and Dragon units from Advanced Air Labs.  
   
 ```
@@ -123,9 +123,9 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 -----
 
 <details>
-<summary>All Faction Commander</summary>
+<summary><strong>All Faction Commander</strong></summary>
  
->**File:** `mod-allfactioncom.lua`  
+**File:** [`mod-allfactioncom.lua`](mod-allfactioncom.lua) 
 >Allows **all commanders** to build any factions T1 Lab.  
 >✔ Supports evolving commanders.  
   
@@ -137,7 +137,7 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 <details>
 <summary>Faction Agnostic Labs</summary>
  
->**File:** `mod-factionagnostic.lua`  
+>**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)  
 >Allows **all labs** to build all factions units of the same tier and type.  
   
 ```
