@@ -51,6 +51,10 @@ vtol = 3,
 },
 },
 },
+armap = {
+buildoptions = {
+[8] = "armfify",
+},
 armshockwave = {
 metalcost = 820,
 health = 3220,
