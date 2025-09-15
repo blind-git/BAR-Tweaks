@@ -65,6 +65,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 ```
 ---
 </details>
+
 <details>
 <summary><strong>Reverse Gear</strong></summary>
  
@@ -76,6 +77,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 ```
 ---
 </details>
+
 <details>
 <summary><strong>Underwater DGun</strong></summary>
  
@@ -88,7 +90,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ```
 ---
 </details>
-<details>
+
 -----
 
 ### Disable
