@@ -24,11 +24,11 @@
 
 <details>
 <summary><strong> 🎮 Lobby Commands</strong></summary>
- 
+>
 >  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
 > 
 >  Ensure each command is on its own line if pasting multiple at once.
- 
+>
 ```
 !bset tweakdefs1 <base64>
 !bset tweakdefs2 <base64> ...etc
