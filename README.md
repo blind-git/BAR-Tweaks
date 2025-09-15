@@ -143,7 +143,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 ##
 
 <details><summary><h3><strong> ❌ Disable or Remove</strong></h3></summary>
-<br>
+
 <details>
 <summary><h4><strong>Jamming & Stealth</strong></h4></summary>
 
@@ -186,7 +186,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 ##
 
 <details><summary><h3><strong> 🛠️ Modify or Tweak</strong></h3></summary>
-<br>
+
 <details>
 <summary><h4><strong>Faction Agnostic Labs</strong></h4></summary>
 
