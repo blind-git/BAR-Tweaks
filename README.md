@@ -104,14 +104,14 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 -----
  
-> - 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
+> 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Enables reverse gear functionality for vehicles.  
+> ℹ️ **Info:**
+> - Enables reverse gear functionality for vehicles.  
 >
-> - **Code:**
+> **Code:**
 ```
 LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
 ```
@@ -123,16 +123,16 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 
 -----
  
-> - 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)
+> 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)
 > 
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 > 
-> - ℹ️ **Info:**
->> Allows all commanders to use DGun underwater.
->> 
->> ⚠️ DGun projectiles above water do not affect submersibles.  
+> ℹ️ **Info:**
+> - Allows all commanders to use DGun underwater.
+> 
+> -⚠️ DGun projectiles above water do not affect submersibles.  
 >
-> - **Code:**
+> **Code:**
 ```
 LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwiY29yY29tIiwibGVnY29tIiwKICAgICJhcm1jb21sdmwxIiwiYXJtY29tbHZsMiIsImFybWNvbWx2bDMiLCJhcm1jb21sdmw0IiwiYXJtY29tbHZsNSIsCiAgICAiYXJtY29tbHZsNiIsImFybWNvbWx2bDciLCJhcm1jb21sdmw4IiwiYXJtY29tbHZsOSIsImFybWNvbWx2bDEwIiwKICAgICJjb3Jjb21sdmwxIiwiY29yY29tbHZsMiIsImNvcmNvbWx2bDMiLCJjb3Jjb21sdmw0IiwiY29yY29tbHZsNSIsCiAgICAiY29yY29tbHZsNiIsImNvcmNvbWx2bDciLCJjb3Jjb21sdmw4IiwiY29yY29tbHZsOSIsImNvcmNvbWx2bDEwIiwKICAgICJsZWdjb21sdmwxIiwibGVnY29tbHZsMiIsImxlZ2NvbWx2bDMiLCJsZWdjb21sdmw0IiwibGVnY29tbHZsNSIsCiAgICAibGVnY29tbHZsNiIsImxlZ2NvbWx2bDciLCJsZWdjb21sdmw4IiwibGVnY29tbHZsOSIsImxlZ2NvbWx2bDEwIiwKfQoKZm9yIF8sIG5hbWUgaW4gaXBhaXJzKGNvbW1hbmRlcnMpIGRvCiAgICBsb2NhbCB1RGVmID0gVW5pdERlZnNbbmFtZV0KICAgIGlmIHVEZWYgYW5kIHVEZWYud2VhcG9uZGVmcyB0aGVuCiAgICAgICAgZm9yIF8sIHdEZWYgaW4gcGFpcnModURlZi53ZWFwb25kZWZzKSBkbwogICAgICAgICAgICBpZiB3RGVmLm5hbWUgYW5kIHdEZWYubmFtZTpsb3dlcigpOmZpbmQoImRpc2ludGVncmF0b3IiKSB0aGVuCiAgICAgICAgICAgICAgICB3RGVmLmZpcmVzdWJtZXJzZWQgPSB0cnVlCiAgICAgICAgICAgICAgICB3RGVmLndhdGVyd2VhcG9uICAgPSB0cnVlCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCmVuZA
 ```
@@ -149,14 +149,14 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 
 -----
  
-> - 📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
+> 📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
+> ℹ️ **Info:**
+> - Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
 >
-> - **Code:**
+> **Code:**
 ```
 LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXREZWZzKSBkbwogICAgaWYgdURlZi5yYWRhcmRpc3RhbmNlamFtIGFuZCB1RGVmLnJhZGFyZGlzdGFuY2VqYW0gPiAwIHRoZW4KICAgICAgICB1RGVmLnJhZGFyZGlzdGFuY2VqYW0gPSAwCiAgICAgICAgdURlZi5zdGVhbHRoID0gZmFsc2UKICAgICAgICB1RGVmLm9ub2ZmYWJsZSA9IGZhbHNlCiAgICAgICAgdURlZi5lbmVyZ3l1cGtlZXAgPSAwCiAgICBlbmQKZW5k
 ```
@@ -167,14 +167,14 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 
 -----
  
-> - 📝 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
+> 📝 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Removes Tyrannus and Dragon units from Advanced Air Labs.  
+> ℹ️ **Info:**
+> - Removes Tyrannus and Dragon units from Advanced Air Labs.  
 >
-> - **Code:**
+> **Code:**
 ```
 LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJdCmlmIGxlZ2FhcCBhbmQgbGVnYWFwLmJ1aWxkb3B0aW9ucyB0aGVuCiAgICBmb3IgaT0jbGVnYWFwLmJ1aWxkb3B0aW9ucywxLC0xIGRvCiAgICAgICAgaWYgbGVnYWFwLmJ1aWxkb3B0aW9uc1tpXSA9PSAibGVnZm9ydCIgdGhlbgogICAgICAgICAgICB0YWJsZS5yZW1vdmUobGVnYWFwLmJ1aWxkb3B0aW9ucywgaSkKICAgICAgICBlbmQKICAgIGVuZAplbmQKCmxvY2FsIGNvcmFhcCA9IFVuaXREZWZzWyJjb3JhYXAiXQppZiBjb3JhYXAgYW5kIGNvcmFhcC5idWlsZG9wdGlvbnMgdGhlbgogICAgZm9yIGk9I2NvcmFhcC5idWlsZG9wdGlvbnMsMSwtMSBkbwogICAgICAgIGlmIGNvcmFhcC5idWlsZG9wdGlvbnNbaV0gPT0gImNvcmNyd2giIHRoZW4KICAgICAgICAgICAgdGFibGUucmVtb3ZlKGNvcmFhcC5idWlsZG9wdGlvbnMsIGkpCiAgICAgICAgZW5kCiAgICBlbmQKZW5k
 ```
@@ -192,14 +192,14 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 -----
 
-> - 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
+> 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Allows **all labs** to build all factions units of the same tier and type.  
+> ℹ️ **Info:**
+> - Allows **all labs** to build all factions units of the same tier and type.  
 >
-> - **Code:**
+> **Code:**
 ```
 LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxvY2FsIG1lcmdlZCA9IHt9CiAgICBmb3IgXywgbGFiIGluIGlwYWlycyhsYWJzKSBkbwogICAgICAgIGxvY2FsIHVEZWYgPSBVbml0RGVmc1tsYWJdCiAgICAgICAgaWYgdURlZiBhbmQgdURlZi5idWlsZG9wdGlvbnMgdGhlbgogICAgICAgICAgICBmb3IgXywgYm8gaW4gaXBhaXJzKHVEZWYuYnVpbGRvcHRpb25zKSBkbwogICAgICAgICAgICAgICAgbWVyZ2VkW2JvXSA9IHRydWUKICAgICAgICAgICAgZW5kCiAgICAgICAgZW5kCiAgICBlbmQKICAgIGxvY2FsIGxpc3QgPSB7fQogICAgZm9yIHVuaXROYW1lIGluIHBhaXJzKG1lcmdlZCkgZG8KICAgICAgICB0YWJsZS5pbnNlcnQobGlzdCwgdW5pdE5hbWUpCiAgICBlbmQKICAgIHJldHVybiBsaXN0CmVuZAoKbG9jYWwgbGFiR3JvdXBzID0gewogICAgVDFfQm90ICAgICA9IHsiYXJtbGFiIiwiY29ybGFiIiwibGVnbGFiIn0sCiAgICBUMV9WZWhpY2xlID0geyJhcm12cCIsImNvcnZwIiwibGVndnAifSwKICAgIFQxX0FpciAgICAgPSB7ImFybWFwIiwiY29yYXAiLCJsZWdhcCJ9LAogICAgVDFfU2VhICAgICA9IHsiYXJtc3kiLCJjb3JzeSIsImxlZ3N5In0sCiAgICBUMV9BbXBoaWIgID0geyJhcm1hbXN1YiIsImNvcmFtc3ViIiwibGVnYW1waGxhYiJ9LAogICAgVDFfSG92ZXIgICA9IHsiYXJtaHAiLCJjb3JocCIsImxlZ2hwIn0sCiAgICBUMV9GSG92ZXIgID0geyJhcm1maHAiLCJjb3JmaHAiLCJsZWdmaHAifSwKCiAgICBUMl9Cb3QgICAgID0geyJhcm1hbGFiIiwiY29yYWxhYiIsImxlZ2FsYWIifSwKICAgIFQyX1ZlaGljbGUgPSB7ImFybWF2cCIsImNvcmF2cCIsImxlZ2F2cCJ9LAogICAgVDJfQWlyICAgICA9IHsiYXJtYWFwIiwiY29yYWFwIiwibGVnYWFwIn0sCiAgICBUMl9TZWEgICAgID0geyJhcm1hc3kiLCJjb3Jhc3kiLCJsZWdhc3kifSwKICAgIFQyX1NlYXBsYW5lPSB7ImFybXBsYXQiLCJjb3JwbGF0In0sCgogICAgVDNfR2FudHJ5ICA9IHsiYXJtc2hsdHgiLCJjb3JnYW50IiwibGVnZ2FudCJ9LAogICAgVDNfVVdHYW50cnkgPSB7ImFybXNobHR4dXciLCJjb3JnYW50dXcifSwKICAgIFQzX0FpciA9IHsiYXJtYXB0MyIsImNvcmFwdDMiLCJsZWdhcHQzIn0KfQoKZm9yIF8sIGxhYnMgaW4gcGFpcnMobGFiR3JvdXBzKSBkbwogICAgbG9jYWwgbWVyZ2VkID0gbWVyZ2VMYWJzKGxhYnMpCiAgICBmb3IgXywgbGFiIGluIGlwYWlycyhsYWJzKSBkbwogICAgICAgIGxvY2FsIHVEZWYgPSBVbml0RGVmc1tsYWJdCiAgICAgICAgaWYgdURlZiB0aGVuCiAgICAgICAgICAgIHVEZWYuYnVpbGRvcHRpb25zID0gbWVyZ2VkCiAgICAgICAgZW5kCiAgICBlbmQKZW5k
 ```
@@ -211,20 +211,20 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 
 -----
  
-> - 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua)
+> 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua)
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Allows **all commanders** to build any factions T1 Lab.
->>
->> Allows **commanders level1-4** to build all unique T1 factions mex (Armed Exploiter, Cloakable Metal Extractor, Overcharged Metal Extractor)
->>
->> Allows **commanders level5-10** to build all unique T2 factions mex (Advanced Armed Exploiter, Shockwave Metal Extractor, Advanced Metal Fortifier) and advanced geothermal. (Cerberus/Rampart)
->> 
->> ✔ Supports evolving commanders.  
+> ℹ️ **Info:**
+> - Allows **all commanders** to build any factions T1 Lab.
 >
-> - **Code:**
+> - Allows **commanders level1-4** to build all unique T1 factions mex (Armed Exploiter, Cloakable Metal Extractor, Overcharged Metal Extractor)
+>
+> - Allows **commanders level5-10** to build all unique T2 factions mex (Advanced Armed Exploiter, Shockwave Metal Extractor, Advanced Metal Fortifier) and advanced geothermal. (Cerberus/Rampart)
+>
+> - ✔ Supports evolving commanders.  
+>
+> **Code:**
 ```
 LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFybWNvbSA9IHsKICAgICAgICAtLSBPcmlnaW5hbDogTGFicyAmIEZhY3RvcmllcyAoYWxsIGxldmVscykKICAgICAgICAiY29ybGFiIiwiY29ydnAiLCJjb3JzeSIsImNvcmhwIiwiY29yYXAiLAogICAgICAgICJsZWdsYWIiLCJsZWd2cCIsImxlZ3N5IiwibGVnaHAiLCJsZWdhcCIsCiAgICAgICAgLS0gTmV3OiBUMSBNZXhlcyAoYWxsIGxldmVscykKICAgICAgICAiY29yZXhwIiwgImxlZ21leHQxNSIsCiAgICB9LAogICAgY29yY29tID0gewogICAgICAgIC0tIE9yaWdpbmFsOiBMYWJzICYgRmFjdG9yaWVzIChhbGwgbGV2ZWxzKQogICAgICAgICJhcm1sYWIiLCJhcm12cCIsImFybXN5IiwiYXJtaHAiLCJhcm1hcCIsCiAgICAgICAgImxlZ2xhYiIsImxlZ3ZwIiwibGVnc3kiLCJsZWdocCIsImxlZ2FwIiwKICAgICAgICAtLSBOZXc6IFQxIE1leGVzIChhbGwgbGV2ZWxzKQogICAgICAgICJhcm1hbWV4IiwgImxlZ21leHQxNSIsCiAgICB9LAogICAgbGVnY29tID0gewogICAgICAgIC0tIE9yaWdpbmFsOiBMYWJzICYgRmFjdG9yaWVzIChhbGwgbGV2ZWxzKQogICAgICAgICJhcm1sYWIiLCJhcm12cCIsImFybXN5IiwiYXJtaHAiLCJhcm1hcCIsCiAgICAgICAgImNvcmxhYiIsImNvcnZwIiwiY29yc3kiLCJjb3JocCIsImNvcmFwIiwKICAgICAgICAtLSBOZXc6IFQxIE1leGVzIChhbGwgbGV2ZWxzKQogICAgICAgICJhcm1hbWV4IiwgImNvcmV4cCIsCiAgICB9LAp9CgotLSBUMiBNZXhlcyAmIEdlb3MgZm9yIGV2b2x1dGlvbiBjb21tYW5kZXJzIChsZXZlbHMgNS0xMCBvbmx5KQpsb2NhbCBldm9Pbmx5VW5pdHMgPSB7CiAgICBhcm1jb20gPSB7ImNvcm1leHAiLCAibGVnbW9ob2NvbiIsICJjb3JiaG10aCIsICJsZWdyYW1wYXJ0In0sCiAgICBjb3Jjb20gPSB7ImFybXNob2Nrd2F2ZSIsICJsZWdtb2hvY29uIiwgImxlZ3JhbXBhcnQifSwKICAgIGxlZ2NvbSA9IHsiYXJtc2hvY2t3YXZlIiwgImNvcm1leHAiLCAiY29yYmhtdGgifSwKfQoKZm9yIGJhc2VOYW1lLCBleHRyYXMgaW4gcGFpcnMoZXh0cmFCdWlsZE9wdGlvbnMpIGRvCiAgICBmb3IgbHZsID0gMCwgMTAgZG8KICAgICAgICBsb2NhbCB1bml0TmFtZSA9IGx2bCA9PSAwIGFuZCBiYXNlTmFtZSBvciAoYmFzZU5hbWUgLi4gImx2bCIgLi4gbHZsKQogICAgICAgIGxvY2FsIHVEZWYgPSBVbml0RGVmc1t1bml0TmFtZV0KICAgICAgICBpZiB1RGVmIGFuZCB1RGVmLmJ1aWxkb3B0aW9ucyB0aGVuCiAgICAgICAgICAgIC0tIEFkZCBhbGwgYmFzaWMgdW5pdHMgKGxhYnMsIGZhY3RvcmllcywgVDEgbWV4ZXMpIHRvIGFsbCBsZXZlbHMKICAgICAgICAgICAgZm9yIF8sIG9wdGlvbiBpbiBpcGFpcnMoZXh0cmFzKSBkbwogICAgICAgICAgICAgICAgdGFibGUuaW5zZXJ0KHVEZWYuYnVpbGRvcHRpb25zLCBvcHRpb24pCiAgICAgICAgICAgIGVuZAogICAgICAgICAgICAKICAgICAgICAgICAgLS0gQWRkIFQyIG1leGVzICYgZ2VvcyBvbmx5IHRvIGV2b2x1dGlvbiBsZXZlbHMgNS0xMAogICAgICAgICAgICBpZiBsdmwgPj0gNSBhbmQgZXZvT25seVVuaXRzW2Jhc2VOYW1lXSB0aGVuCiAgICAgICAgICAgICAgICBmb3IgXywgb3B0aW9uIGluIGlwYWlycyhldm9Pbmx5VW5pdHNbYmFzZU5hbWVdKSBkbwogICAgICAgICAgICAgICAgICAgIHRhYmxlLmluc2VydCh1RGVmLmJ1aWxkb3B0aW9ucywgb3B0aW9uKQogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgZW5kCmVuZA
 ```
@@ -236,20 +236,20 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 
 -----
  
-> - 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
+> 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Adds autoheal and idle autoheal to all units and buildings.
->>
->> Boosts all units autoheal + idle autoheal by 10%
->>
->> Boost all army unit health by 20%
->>
->> Boost all building health by 30%
+> ℹ️ **Info:**
+> - Adds autoheal and idle autoheal to all units and buildings.
 >
-> - **Code:**
+> - Boosts all units autoheal + idle autoheal by 10%
+>
+> - Boost all army unit health by 20%
+>
+> - Boost all building health by 30%
+>
+> **Code:**
 ```
 LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAgLS0gMjAlIGJvb3N0IHRvIHVuaXRzJyBtYXggaGVhbHRoCmxvY2FsIFVOSVRfQVVUT0hFQUxfTVVMVCA9IDEuMSAgICAgICAgLS0gMTAlIGJvb3N0IHRvIHVuaXRzJyBhdXRvaGVhbC9pZGxlYXV0b2hlYWwKbG9jYWwgVU5JVF9JRExFX0FVVE9IRUFMID0gNSAgICAgICAgICAgLS0gYmFzZSBpZGxlIGF1dG9oZWFsIGlmIG1pc3NpbmcKbG9jYWwgQlVJTERJTkdfSEVBTFRIX01VTFQgPSAxLjMgICAgICAtLSAzMCUgYm9vc3QgdG8gYnVpbGRpbmcgbWF4IGhlYWx0aApsb2NhbCBCVUlMRElOR19BVVRPSEVBTF9NVUxUID0gMS4xICAgIC0tIDEwJSBib29zdCB0byBidWlsZGluZyBhdXRvaGVhbC9pZGxlYXV0b2hlYWwKbG9jYWwgQlVJTERJTkdfSURMRV9BVVRPSEVBTCA9IDUgICAgICAgLS0gYmFzZSBpZGxlIGF1dG9oZWFsIGlmIG1pc3NpbmcKCmZvciBuYW1lLCB1bml0IGluIHBhaXJzKFVuaXREZWZzKSBkbwogICAgaWYgdW5pdC5jYW5tb3ZlIGFuZCB1bml0LnNwZWVkIGFuZCB1bml0LnNwZWVkID4gMCB0aGVuCiAgICAgICAgLS0gVW5pdAogICAgICAgIHVuaXQuaGVhbHRoID0gbWF0aC5mbG9vcigodW5pdC5oZWFsdGggb3IgMTAwKSAqIFVOSVRfSEVBTFRIX01VTFQpCiAgICAgICAgdW5pdC5hdXRvaGVhbCA9ICh1bml0LmF1dG9oZWFsIG9yIFVOSVRfSURMRV9BVVRPSEVBTCkgKiBVTklUX0FVVE9IRUFMX01VTFQKICAgICAgICB1bml0LmlkbGVhdXRvaGVhbCA9ICh1bml0LmlkbGVhdXRvaGVhbCBvciBVTklUX0lETEVfQVVUT0hFQUwpICogVU5JVF9BVVRPSEVBTF9NVUxUCiAgICBlbHNlCiAgICAgICAgLS0gQnVpbGRpbmcKICAgICAgICB1bml0LmhlYWx0aCA9IG1hdGguZmxvb3IoKHVuaXQuaGVhbHRoIG9yIDEwMCkgKiBCVUlMRElOR19IRUFMVEhfTVVMVCkKICAgICAgICB1bml0LmF1dG9oZWFsID0gKHVuaXQuYXV0b2hlYWwgb3IgQlVJTERJTkdfSURMRV9BVVRPSEVBTCkgKiBCVUlMRElOR19BVVRPSEVBTF9NVUxUCiAgICAgICAgdW5pdC5pZGxlYXV0b2hlYWwgPSAodW5pdC5pZGxlYXV0b2hlYWwgb3IgQlVJTERJTkdfSURMRV9BVVRPSEVBTCkgKiBCVUlMRElOR19BVVRPSEVBTF9NVUxUCiAgICBlbmQKZW5k
 ```
@@ -261,18 +261,18 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 
  -----
 
-> - 📝 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
+> 📝 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
 >
-> - 🔧 **Usage:** `!bset tweakdefs <base64>`
+> 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
-> - ℹ️ **Info:**
->> Gives all commanders all the scavenger boss weapons.
->>
->> Yes this is ridiculous.
->>
->> Yes this works with evolving commanders.
+> ℹ️ **Info:**
+> - Gives all commanders all the scavenger boss weapons.
 >
-> - **Code:**
+> - Yes this is ridiculous.
+>
+> - Yes this works with evolving commanders.
+>
+> **Code:**
 ```
 LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBzZWVuKQogICAgaWYgdHlwZShvcmlnKSB-PSAidGFibGUiIHRoZW4gcmV0dXJuIG9yaWcgZW5kCiAgICBpZiBzZWVuIGFuZCBzZWVuW29yaWddIHRoZW4gcmV0dXJuIHNlZW5bb3JpZ10gZW5kCiAgICBsb2NhbCBjb3B5ID0ge30KICAgIHNlZW4gPSBzZWVuIG9yIHt9CiAgICBzZWVuW29yaWddID0gY29weQogICAgZm9yIGssIHYgaW4gcGFpcnMob3JpZykgZG8KICAgICAgICBjb3B5W2RlZXBDb3B5KGssIHNlZW4pXSA9IGRlZXBDb3B5KHYsIHNlZW4pCiAgICBlbmQKICAgIHJldHVybiBjb3B5CmVuZAoKLS0gZmluZCBhIHNjYXZlbmdlcmJvc3N2NCB1bml0IGFzIHdlYXBvbiBzb3VyY2UKbG9jYWwgc291cmNlVUQsIHNvdXJjZU5hbWUKZm9yIG5hbWUsIHVkIGluIHBhaXJzKFVuaXREZWZzKSBkbwogICAgaWYgbmFtZTpsb3dlcigpOmZpbmQoInNjYXZlbmdlcmJvc3N2NCIpIHRoZW4KICAgICAgICBzb3VyY2VVRCA9IHVkCiAgICAgICAgc291cmNlTmFtZSA9IG5hbWUKICAgICAgICBicmVhawogICAgZW5kCmVuZAoKaWYgbm90IHNvdXJjZVVEIHRoZW4KICAgIHJldHVybgplbmQKCmlmIG5vdCBzb3VyY2VVRC53ZWFwb25kZWZzIG9yIG5vdCBzb3VyY2VVRC53ZWFwb25zIHRoZW4KICAgIHJldHVybgplbmQKCi0tIGJ1aWxkIGEgbG9va3VwIG9mIHNvdXJjZSB3ZWFwb25kZWYga2V5cyAobG93ZXIpID0-IG9yaWdpbmFsIGtleQpsb2NhbCBzcmNXRGVmS2V5cyA9IHt9CmZvciBrIGluIHBhaXJzKHNvdXJjZVVELndlYXBvbmRlZnMpIGRvCiAgICBzcmNXRGVmS2V5c1trOmxvd2VyKCldID0gawplbmQKCi0tIGNvcHkgc3JjIHdlYXBvbmRlZnMgdGFibGUgJiBwcmVwYXJlIGRlZiBuYW1lIG1hcHBpbmcgKGxvd2VyIC0-IG5ld0tleSkKbG9jYWwgZGVmTWFwID0ge30KZm9yIGxvd2VySywgb3JpZ0sgaW4gcGFpcnMoc3JjV0RlZktleXMpIGRvCiAgICBsb2NhbCBuZXdLZXkgPSAic2Nhdl8iIC4uIG9yaWdLICAtLSBuZXcga2V5IGluIGNvbW1hbmRlci53ZWFwb25kZWZzCiAgICBkZWZNYXBbbG93ZXJLXSA9IG5ld0tleQplbmQKCi0tIGZ1bmN0aW9uIHRvIGVuc3VyZSBjb21tYW5kZXIgaGFzIHdlYXBvbmRlZnMgdGFibGUKbG9jYWwgZnVuY3Rpb24gZW5zdXJlV2VhcG9uRGVmcyh0YXJnZXRVRCkKICAgIGlmIG5vdCB0YXJnZXRVRC53ZWFwb25kZWZzIHRoZW4gdGFyZ2V0VUQud2VhcG9uZGVmcyA9IHt9IGVuZAplbmQKCmxvY2FsIGZ1bmN0aW9uIGVuc3VyZVdlYXBvbnNMaXN0KHRhcmdldFVEKQogICAgaWYgbm90IHRhcmdldFVELndlYXBvbnMgdGhlbiB0YXJnZXRVRC53ZWFwb25zID0ge30gZW5kCmVuZAoKLS0gY29weSBlYWNoIHdlYXBvbmRlZiBpbnRvIHRhcmdldCB1bmRlciBuZXdLZXkgaWYgbm90IHByZXNlbnQKbG9jYWwgZnVuY3Rpb24gY29weVdlYXBvbkRlZnNUbyh0YXJnZXRVRCkKICAgIGVuc3VyZVdlYXBvbkRlZnModGFyZ2V0VUQpCiAgICBmb3IgbG93ZXJLLCBvcmlnSyBpbiBwYWlycyhzcmNXRGVmS2V5cykgZG8KICAgICAgICBsb2NhbCBuZXdLZXkgPSBkZWZNYXBbbG93ZXJLXQogICAgICAgIGlmIG5vdCB0YXJnZXRVRC53ZWFwb25kZWZzW25ld0tleV0gdGhlbgogICAgICAgICAgICB0YXJnZXRVRC53ZWFwb25kZWZzW25ld0tleV0gPSBkZWVwQ29weShzb3VyY2VVRC53ZWFwb25kZWZzW29yaWdLXSkKICAgICAgICBlbmQKICAgIGVuZAplbmQKCi0tIGNvcHkgd2VhcG9ucyBlbnRyaWVzIChhcnJheSkgaW50byB0YXJnZXQud2VhcG9ucywgcmVtYXBwaW5nIC5kZWYgdG8gbmV3S2V5CmxvY2FsIGZ1bmN0aW9uIGFwcGVuZFdlYXBvbnNFbnRyaWVzVG8odGFyZ2V0VUQpCiAgICBlbnN1cmVXZWFwb25zTGlzdCh0YXJnZXRVRCkKICAgIGZvciBfLCB3RW50cnkgaW4gaXBhaXJzKHNvdXJjZVVELndlYXBvbnMpIGRvCiAgICAgICAgbG9jYWwgZGVmTmFtZSA9IHRvc3RyaW5nKHdFbnRyeS5kZWYgb3IgIiIpCiAgICAgICAgbG9jYWwgbWFwcGVkID0gZGVmTWFwW2RlZk5hbWU6bG93ZXIoKV0KICAgICAgICBpZiBub3QgbWFwcGVkIHRoZW4KICAgICAgICAgICAgLS0gZmFsbGJhY2s6IHRyeSB0byBtYXRjaCBieSBzY2FubmluZyBzcmNXRGVmS2V5cwogICAgICAgICAgICAtLSAoc2hvdWxkbid0IGJlIG5lZWRlZCBub3JtYWxseSkKICAgICAgICAgICAgZm9yIGxrLCBvayBpbiBwYWlycyhzcmNXRGVmS2V5cykgZG8KICAgICAgICAgICAgICAgIGlmIGRlZk5hbWU6bG93ZXIoKSA9PSBvazpsb3dlcigpIHRoZW4KICAgICAgICAgICAgICAgICAgICBtYXBwZWQgPSBkZWZNYXBbbGtdOyBicmVhawogICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICAgIGlmIG1hcHBlZCB0aGVuCiAgICAgICAgICAgIGxvY2FsIG5ld0VudHJ5ID0gZGVlcENvcHkod0VudHJ5KQogICAgICAgICAgICBuZXdFbnRyeS5kZWYgPSBtYXBwZWQKICAgICAgICAgICAgdGFibGUuaW5zZXJ0KHRhcmdldFVELndlYXBvbnMsIG5ld0VudHJ5KQogICAgICAgIGVuZAogICAgZW5kCmVuZAoKLS0gbGlzdCBvZiBjb21tYW5kZXIgYmFzZXMgdG8gcGF0Y2ggKGJhc2UgKyBsdmwxLi5sdmwxMCkKbG9jYWwgYmFzZXMgPSB7ImFybWNvbSIsICJjb3Jjb20iLCAibGVnY29tIn0KbG9jYWwgcGF0Y2hlZENvdW50ID0gMApmb3IgXywgYmFzZSBpbiBpcGFpcnMoYmFzZXMpIGRvCiAgICBmb3IgbHZsID0gMCwgMTAgZG8KICAgICAgICBsb2NhbCB1bml0TmFtZSA9IChsdmwgPT0gMCkgYW5kIGJhc2Ugb3IgKGJhc2UgLi4gImx2bCIgLi4gbHZsKQogICAgICAgIGxvY2FsIHVkID0gVW5pdERlZnNbdW5pdE5hbWVdCiAgICAgICAgaWYgdWQgdGhlbgogICAgICAgICAgICBjb3B5V2VhcG9uRGVmc1RvKHVkKQogICAgICAgICAgICBhcHBlbmRXZWFwb25zRW50cmllc1RvKHVkKQogICAgICAgICAgICBwYXRjaGVkQ291bnQgPSBwYXRjaGVkQ291bnQgKyAxCiAgICAgICAgZW5kCiAgICBlbmQKZW5k
 ```
