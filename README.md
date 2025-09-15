@@ -26,6 +26,7 @@ Use `!bset tweakdefs1`, `!bset tweakdefs2`, etc. for multiple configurations
 ```
 
 ## 📂 Tweaks
+-----
 ### Enable
  -----
 <details>
