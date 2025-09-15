@@ -115,8 +115,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 -----
 
 ### Disable or Remove
-
------
+<details><summary></summary>
 
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
@@ -149,6 +148,8 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJdCmlmIGxlZ2FhcCBhbmQgbGVnYWFwLmJ1aWxkb3B0aW9ucyB0aGVuCiAgICBmb3IgaT0jbGVnYWFwLmJ1aWxkb3B0aW9ucywxLC0xIGRvCiAgICAgICAgaWYgbGVnYWFwLmJ1aWxkb3B0aW9uc1tpXSA9PSAibGVnZm9ydCIgdGhlbgogICAgICAgICAgICB0YWJsZS5yZW1vdmUobGVnYWFwLmJ1aWxkb3B0aW9ucywgaSkKICAgICAgICBlbmQKICAgIGVuZAplbmQKCmxvY2FsIGNvcmFhcCA9IFVuaXREZWZzWyJjb3JhYXAiXQppZiBjb3JhYXAgYW5kIGNvcmFhcC5idWlsZG9wdGlvbnMgdGhlbgogICAgZm9yIGk9I2NvcmFhcC5idWlsZG9wdGlvbnMsMSwtMSBkbwogICAgICAgIGlmIGNvcmFhcC5idWlsZG9wdGlvbnNbaV0gPT0gImNvcmNyd2giIHRoZW4KICAgICAgICAgICAgdGFibGUucmVtb3ZlKGNvcmFhcC5idWlsZG9wdGlvbnMsIGkpCiAgICAgICAgZW5kCiAgICBlbmQKZW5k
 ```
 ---
+</details>
+
 </details>
 
 -----
@@ -237,4 +238,6 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
  
 </details>
 
+</details>
 
+-----
