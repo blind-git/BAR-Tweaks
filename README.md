@@ -3,11 +3,12 @@
 **Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/)**  
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
-[![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks)](https://github.com/blind-git/BAR-Tweaks/issues)
-[![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks)](https://github.com/blind-git/BAR-Tweaks/stargazers)
-[![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-blue?logo=github)](https://github.com/beyond-all-reason)
-[![BAR Discord](https://img.shields.io/badge/Join%20the%20BAR-Discord-blueviolet?logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)
-[![ADHD Discord](https://img.shields.io/badge/Discord-Blind's%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
+[![GitHub issues](https://img.shields.io/github/issues/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/issues)
+[![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/stargazers)
+[![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/beyond-all-reason)
+[![BAR Discord](https://img.shields.io/badge/BAR-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)
+[![Blind's Discord](https://img.shields.io/badge/Blind's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
+
 
 ---
 
