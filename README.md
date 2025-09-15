@@ -43,7 +43,7 @@
 ## <h2><strong> 📂 Tweaks</strong></h2>
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
 <details>
-<summary><h4><strong>ConTurret Build Options</strong></h4></summary>
+- <summary><h4><strong>ConTurret Build Options</strong></h4></summary>
 
 >
 >  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
