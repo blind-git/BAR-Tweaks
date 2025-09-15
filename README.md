@@ -12,8 +12,8 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 <details>
 <summary><strong>Lobby Commands:</strong></summary>
  
-> To apply tweaks use the tweakdefs or tweakunits commands.
-> Ensure each command is on its own line if pasting multiple at once.
+-  To apply tweaks use the tweakdefs or tweakunits commands.
+-  Ensure each command is on its own line if pasting multiple at once.
  
 ```
 !bset tweakdefs1 <base64>
@@ -33,7 +33,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
->Adds additional build options to the ConTurret. 
+- Adds additional build options to the ConTurret. 
 
 **Code:**
 ```
@@ -48,7 +48,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
 **Usage:** `!bset tweakunits <base64>`
->Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
+- Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
 
 **New Units:**
 
@@ -73,13 +73,13 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 **File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
-- Adds autoheal and idle-autoheal to all units and buildings.
+- Adds autoheal and idle autoheal to all units and buildings.
 
-- Adds 10% autoheal to units that already could.
+- Boosts all units autoheal + idle autoheal by 10%
 
-- Buff all army unit health by 20%
+- Boost all army unit health by 20%
 
-- Buff all building health by 30%
+- Boost all building health by 30%
 
 **Code:**
 ```
@@ -94,7 +94,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCgpsb2NhbCBVTklUX0hFQUxUSF9NVUxUID0gMS4yICAgICAgICAg
 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
->Enables reverse gear functionality for vehicles.  
+- Enables reverse gear functionality for vehicles.  
  
 ```
 LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1RGVmIGluIHBhaXJzKHVEZWZzKSBkbwogICAgaWYgKG5vdCB1RGVmLmNhbmZseSkgYW5kIHVEZWYuc3BlZWQgdGhlbgogICAgICAgIHVEZWYucnNwZWVkID0gdURlZi5zcGVlZCowLjY1CiAgICBlbmQKZW5k
@@ -107,8 +107,8 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
  
 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
 **Usage:** `!bset tweakdefs <base64>`
->Allows all commanders to use DGun underwater.  
->⚠️ DGun projectiles above water do not affect submersibles.  
+- Allows all commanders to use DGun underwater.  
+- ⚠️ DGun projectiles above water do not affect submersibles.  
 
 **Code:**
 ```
@@ -129,7 +129,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
->Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
+- Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
 
 **Code:**
 ```
@@ -164,7 +164,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
->Allows **all labs** to build all factions units of the same tier and type.  
+- Allows **all labs** to build all factions units of the same tier and type.  
 
 **Code:**
 ```
@@ -179,8 +179,8 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
->Allows **all commanders** to build any factions T1 Lab.  
->✔ Supports evolving commanders.  
+- Allows **all commanders** to build any factions T1 Lab.  
+- ✔ Supports evolving commanders.  
 
 **Code:**
 ```
@@ -193,8 +193,8 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
  <summary><strong>Scavboss Commander Weapons</strong></summary>
 
 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
->Gives all commanders all the scavenger boss weapons.
->Yes this is ridiculous. Yes this works with evolving commanders.
+- Gives all commanders all the scavenger boss weapons.
+- Yes this is ridiculous. Yes this works with evolving commanders.
 
 **Code:**
 ```
