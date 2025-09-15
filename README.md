@@ -31,6 +31,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 <summary><strong>ConTurret Build Options</strong></summary>
  
 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
+**Usage:** `!bset tweakdefs <base64>`
 >Adds additional build options to the ConTurret. 
  
 ```
@@ -43,17 +44,18 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 <summary><strong>Extra Units Lite Pack</strong></summary>
  
 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
+**Usage:** `!bset tweakunits <base64>`
 >Enables extra units lite pack. (USE !bset tweakunits instead of tweakdefs)
 >Designed to be used without official extra units pack mod option in game.
 
-**New Units by Faction:**
+**New Units:**
 
-| Tier | Armada | Cortex | Legion |
-|------|---------|---------|---------|
-| **T1 Vehicles** | ZAPPER (EMP Scout - enhanced speed/health) | | |
-| **T2 Bots** | | DEADEYE (Sniper) | |
-| **T2 Vehicles** | | SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) | |
-| **T3** | MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) | | |
+| Tier | Units |
+|------|--------|
+| **T1** | **Armada:** ZAPPER (EMP Scout - enhanced speed/health) |
+| **T2 Bots** | **Cortex:** DEADEYE (Sniper) |
+| **T2 Vehicles** | **Cortex:** SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) |
+| **T3** | **Armada:** MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) |
 
 **T2 Constructor Additions:**
 - **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)  
@@ -70,6 +72,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 <summary><strong>Regenerative Alloys</strong></summary>
  
 **File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua)  
+**Usage:** `!bset tweakdefs <base64>`
 >Adds autoheal and idle-autoheal to all units and buildings.
 >Adds 10% autoheal to units that already could.
 >Buff all unit health by 20%
@@ -97,6 +100,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 <summary><strong>Underwater DGun</strong></summary>
  
 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
+**Usage:** `!bset tweakdefs <base64>`
 >Allows all commanders to use DGun underwater.  
 >⚠️ DGun projectiles above water do not affect submersibles.  
   
@@ -116,6 +120,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <summary><strong>Jamming & Stealth</strong></summary>
  
 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
+**Usage:** `!bset tweakdefs <base64>`
 >Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
   
 ```
@@ -127,6 +132,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 <summary><strong>Tyrannus / Dragon</strong></summary>
  
 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
+**Usage:** `!bset tweakdefs <base64>`
 >Removes Tyrannus and Dragon units from Advanced Air Labs.  
   
 ```
@@ -145,6 +151,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <summary><strong>All Faction Commander</strong></summary>
  
 **File:** [`mod-allfactioncom.lua`](mod-allfactioncom.lua) 
+**Usage:** `!bset tweakdefs <base64>`
 >Allows **all commanders** to build any factions T1 Lab.  
 >✔ Supports evolving commanders.  
   
@@ -157,6 +164,7 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 <summary><strong>Faction Agnostic Labs</strong></summary>
  
 >**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)  
+**Usage:** `!bset tweakdefs <base64>`
 >Allows **all labs** to build all factions units of the same tier and type.  
   
 ```
