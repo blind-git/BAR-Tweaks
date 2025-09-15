@@ -35,7 +35,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Adds additional build options to the ConTurret. 
+> Adds additional build options to the ConTurret. 
 
 **Code:**
 ```
@@ -79,13 +79,13 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-- Adds autoheal and idle autoheal to all units and buildings.
+> Adds autoheal and idle autoheal to all units and buildings.
 
-- Boosts all units autoheal + idle autoheal by 10%
+> Boosts all units autoheal + idle autoheal by 10%
 
-- Boost all army unit health by 20%
+> Boost all army unit health by 20%
 
-- Boost all building health by 30%
+> Boost all building health by 30%
 
 **Code:**
 ```
