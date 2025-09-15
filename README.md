@@ -8,11 +8,6 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 
 ---
 
-🔗 **Beyond All Reason resources:**  
-- [BAR GitHub](https://github.com/beyond-all-reason)  
-- [BAR Discord](https://discord.gg/beyond-all-reason)  
-
-
 ## 🛠 Usage
 <details>
 <summary><strong>Lobby Commands:</strong></summary>
@@ -246,3 +241,9 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 </details>
 
 -----
+
+🔗 **Beyond All Reason resources:**  
+- [BAR GitHub](https://github.com/beyond-all-reason)  
+- [BAR Discord](https://discord.gg/beyond-all-reason)  
+
+
