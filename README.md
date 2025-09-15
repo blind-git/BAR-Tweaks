@@ -68,6 +68,8 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 
 <details>
 <summary><strong>Extra Units Lite Pack</strong></summary>
+
+ <br>
  
 📝 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
@@ -98,6 +100,8 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 <details>
 <summary><strong>Reverse Gear</strong></summary>
+
+ <br>
  
 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 
@@ -114,6 +118,8 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 
 <details>
 <summary><strong>Underwater DGun</strong></summary>
+
+ <br>
  
 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
 **Usage:** `!bset tweakdefs <base64>`
@@ -135,6 +141,8 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <br>
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
+
+ <br>
  
  📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 
@@ -172,6 +180,8 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <br>
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
+
+ <br>
  
 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 
@@ -189,6 +199,8 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 
 <details>
 <summary><strong>Omni Faction Commanders</strong></summary>
+
+ <br>
  
 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
 
@@ -212,6 +224,8 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 
 <details>
 <summary><strong>Regenerative Alloys</strong></summary>
+
+ <br>
  
 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
 
@@ -235,6 +249,8 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 
 <details>
  <summary><strong>Scavboss Commander Weapons</strong></summary>
+
+  <br>
 
 📝 *File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
 
