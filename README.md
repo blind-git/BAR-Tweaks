@@ -10,19 +10,12 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 
 ## 🛠 Usage
 
-**In-game command**: Use `!bset tweakdefs <base64>` or `!bset tweakunits <base64` to apply tweaks
-Use `!bset tweakdefs1`, `!bset tweakdefs2`, etc. for multiple configurations
+**Lobby Commands:**
+>To apply tweaks use the tweakdefs or tweakunits commands.
+>Ensure each command is on its own line if pasting multiple at once.
 ```
-!bset tweakunits <base64_code>
-!bset tweakdefs <base64_code>
-```
-```
-!bset tweakunits1 <base64_code>
-!bset tweakunits2 <base64_code>
-!bset tweakunits... etc
-!bset tweakdefs1 <base64_code>
-!bset tweakdefs2 <base64_code>
-!bset tweakdefs2... etc
+!bset tweakdefs1 <base64>  !bset tweakdefs2  # etc...
+!bset tweakunits1 <base 64> !bset tweakunits2 # etc...
 ```
 
 ## 📂 Tweaks
