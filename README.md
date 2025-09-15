@@ -23,7 +23,7 @@
 ## <h2><strong> 🛠 Usage</strong></h2>
 
 <details>
-<summary><h3><strong> 🎮 Lobby Commands</strong></h3></summary>
+<summary><h3>🎮 Lobby Commands</h3></summary>
 
 >  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
 > 
@@ -43,7 +43,7 @@
 ## <h2><strong> 📂 Tweaks</strong></h2>
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
 <details>
-<summary><h4><strong>ConTurret Build Options</strong></h4></summary>
+<summary><h4>ConTurret Build Options</h4></summary>
 
 >
 >  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
@@ -64,7 +64,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 </details>
 
 <details>
-<summary><h4><strong>Extra Units Lite Pack</strong></h4></summary>
+<summary><h4>Extra Units Lite Pack</h4></summary>
 
 >
 > 📝 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
@@ -95,7 +95,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 </details>
 
 <details>
-<summary><h4><strong>Reverse Gear</strong></h4></summary>
+<summary><h4>Reverse Gear</h4></summary>
 
 >
 > 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
@@ -113,7 +113,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 </details>
 
 <details>
-<summary><h4><strong>Underwater DGun</strong></h4></summary>
+<summary><h4>Underwater DGun</h4></summary>
 
 >
 > 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)
@@ -138,7 +138,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 <details><summary><h3><strong> ❌ Disable or Remove</strong></h3></summary>
 
 <details>
-<summary><h4><strong>Jamming & Stealth</strong></h4></summary>
+<summary><h4>Jamming & Stealth</h4></summary>
 
 >
 > 📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
@@ -155,7 +155,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 ---
 </details>
 <details>
-<summary><h4><strong>Tyrannus / Dragon</strong></h4></summary>
+<summary><h4>Tyrannus / Dragon</h4></summary>
 
 >
 > 📝 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
@@ -179,7 +179,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <details><summary><h3><strong> 🛠️ Modify or Tweak</strong></h3></summary>
 
 <details>
-<summary><h4><strong>Faction Agnostic Labs</strong></h4></summary>
+<summary><h4>Faction Agnostic Labs</h4></summary>
 
 >
 > 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
@@ -197,7 +197,7 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 </details>
 
 <details>
-<summary><h4><strong>Omni Faction Commanders</strong></h4></summary>
+<summary><h4>Omni Faction Commanders</h4></summary>
 
 >
 > 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua)
@@ -221,7 +221,7 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 </details>
 
 <details>
-<summary><h4><strong>Regenerative Alloys</strong></h4></summary>
+<summary><h4>Regenerative Alloys</h4></summary>
 
 >
 > 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
@@ -245,7 +245,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 </details>
 
 <details>
- <summary><h4><strong>Scavboss Commander Weapons</strong></h4></summary>
+ <summary><h4>Scavboss Commander Weapons</h4></summary>
 
 >
 > 📝 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
