@@ -1,7 +1,7 @@
 
 -----
 
-# BAR-Tweaks
+#  🤖 BAR-Tweaks
 
 **Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/)**  
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
