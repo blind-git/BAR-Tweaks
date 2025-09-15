@@ -41,7 +41,11 @@
 
 -----
 
-## <h2><strong> 📂 Tweaks</strong></h2>
+##
+
+<details><summary><h2><strong> 📂 Tweaks</strong></h2></summary>
+
+
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
 <details>
 <summary><h4>ConTurret Build Options</h4></summary>
@@ -269,6 +273,7 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 </details>
 
+</details>
 ##
 
 -----
