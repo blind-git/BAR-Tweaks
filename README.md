@@ -25,7 +25,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 
 ## 📂 Tweaks
 -----
-### Enable
+### Enable or add features/units/functionality
  -----
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
@@ -135,7 +135,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 
 -----
 
-### Disable
+### Disable or remove units features or functionality
 
 -----
 
@@ -174,7 +174,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 -----
 
-### Modify
+### Modify or tweak or adjust units gameplay or settings
 
 -----
 
