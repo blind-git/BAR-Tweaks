@@ -43,7 +43,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
  
-**File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
+** 📝 File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -62,7 +62,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 <details>
 <summary><strong>Extra Units Lite Pack</strong></summary>
  
-**File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
+** 📝 File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
 **Usage:** `!bset tweakunits <base64>`
 
@@ -92,7 +92,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 <details>
 <summary><strong>Reverse Gear</strong></summary>
  
-**File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
+** 📝 File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -108,7 +108,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 <details>
 <summary><strong>Underwater DGun</strong></summary>
  
-**File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
+** 📝 File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
@@ -148,7 +148,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 <details>
 <summary><strong>Tyrannus / Dragon</strong></summary>
  
-**File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
+** 📝 File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -173,7 +173,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
  
-**File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
+** 📝 File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -190,7 +190,7 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 <details>
 <summary><strong>Omni Faction Commanders</strong></summary>
  
-**File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
+** 📝 File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -213,7 +213,7 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 <details>
 <summary><strong>Regenerative Alloys</strong></summary>
  
-**File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
+** 📝 File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
 
@@ -236,7 +236,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 <details>
  <summary><strong>Scavboss Commander Weapons</strong></summary>
 
-**File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
+** 📝 File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
 
