@@ -26,7 +26,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 ## 📂 Tweaks
 -----
 ### Enable or Add
- -----
+
 <details>
 <summary></summary>
   
