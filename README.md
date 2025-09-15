@@ -40,7 +40,7 @@
 
 -----
 
-## <h2> 📂 Tweaks</h2>
+## <h1> 📂 Tweaks</h21>
 
 
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
