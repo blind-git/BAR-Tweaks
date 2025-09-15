@@ -36,7 +36,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 
 **Details:**
 > Adds T1 and T2 build options to their relevant tiers ConTurret. 
-
+>
 > Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
 
 **Code:**
@@ -54,7 +54,9 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 **Usage:** `!bset tweakunits <base64>`
 
 **Details:**
-> Enables extra units lite pack. Designed to be used without official extra units pack mod option in game.
+> Enables extra units lite pack.
+> 
+> Designed to be used without official extra units pack mod option in game.
 
 **New Units:**
 
@@ -83,11 +85,11 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 **Details:**
 > Adds autoheal and idle autoheal to all units and buildings.
-
+>
 > Boosts all units autoheal + idle autoheal by 10%
-
+>
 > Boost all army unit health by 20%
-
+>
 > Boost all building health by 30%
 
 **Code:**
@@ -120,7 +122,8 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-> Allows all commanders to use DGun underwater.  
+> Allows all commanders to use DGun underwater.
+> 
 > ⚠️ DGun projectiles above water do not affect submersibles.  
 
 **Code:**
@@ -200,7 +203,8 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 **Usage:** `!bset tweakdefs <base64>`
 
 **Details:**
-> Allows **all commanders** to build any factions T1 Lab.  
+> Allows **all commanders** to build any factions T1 Lab.
+> 
 > ✔ Supports evolving commanders.  
 
 **Code:**
