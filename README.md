@@ -20,6 +20,8 @@
 ---
 
 <details><summary><h2><strong> 🛠 Usage</strong></h2></summary>
+  
+##
 
 <details>
 <summary><h3>🎮 Lobby Commands</h3></summary>
