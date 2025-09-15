@@ -6,7 +6,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 <p align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/713/287/823/beyond-all-reason-war-robots-real-time-strategy-strategy-games-hd-wallpaper-preview.jpg" 
        alt="BAR Banner" 
-       width="800" 
+       width="900" 
        height="200"/>
 </p>
 
