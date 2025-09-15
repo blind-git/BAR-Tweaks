@@ -38,7 +38,7 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
 ## 📂 Tweaks
 
 ### Enable or Add 
-<details><summary></summary>
+<details><summary>✅</summary>
   
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
@@ -168,7 +168,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 ### Modify or Tweak
 
-<details><summary></summary>
+<details><summary>🛠️</summary>
 
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
