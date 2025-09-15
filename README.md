@@ -47,13 +47,13 @@
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
->
+  
 -----
   
 > -  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
-
+>
 > -  🔧 **Usage:** `!bset tweakdefs <base64>`
-
+>
 > - ℹ️ **Info:**
 > Adds T1 and T2 build options to their relevant tiers ConTurret. 
 >
