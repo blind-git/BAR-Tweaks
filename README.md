@@ -42,7 +42,8 @@ Enable, disable, or modify units, buildings, weapons, and game mechanics — all
   
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
- 
+<br>
+  
 📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
 **Usage:** `!bset tweakdefs <base64>`
