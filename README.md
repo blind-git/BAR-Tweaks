@@ -50,9 +50,9 @@
 
 -----
   
-- 📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
+-  📝 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+-  🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Adds T1 and T2 build options to their relevant tiers ConTurret. 
@@ -73,7 +73,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
  
 - 📝 **File:** [`enable-extraunitslite.lua`](enable-extraunitslite.lua)
 
-- **Usage:** `!bset tweakunits <base64>`
+- 🔧 **Usage:** `!bset tweakunits <base64>`
 
 - **Details:**
 > Enables extra units lite pack.
@@ -105,7 +105,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
  
 - 📝 **File:** [`enable-reversegear.lua`](enable-reversegear.lua) 
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Enables reverse gear functionality for vehicles.  
@@ -120,7 +120,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 <summary><strong>Underwater DGun</strong></summary>
  
 - 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Allows all commanders to use DGun underwater.
@@ -146,7 +146,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
  
  - 📝 **File:** [`disable-jammingstealthy.lua`](disable-jammingstealthy.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
@@ -164,7 +164,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
  
 - 📝 **File:** [`disable-tyrannusdragon.lua`](disable-tyrannusdragon.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Removes Tyrannus and Dragon units from Advanced Air Labs.  
@@ -189,7 +189,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 - 📝 **File:** [`mod-factionagnostic.lua`](mod-factionagnostic.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Allows **all labs** to build all factions units of the same tier and type.  
@@ -208,7 +208,7 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
  
 - 📝 **File:** [`mod-omnifactioncomms.lua`](mod-omnifactioncomms.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Allows **all commanders** to build any factions T1 Lab.
@@ -233,7 +233,7 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
  
 - 📝 **File:** [`mod-regenerative-alloys.lua`](mod-regenerative-alloys.lua) 
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Adds autoheal and idle autoheal to all units and buildings.
@@ -258,7 +258,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 
 - 📝 **File:** [`mod-scavboss-commweapons.lua`](mod-scavboss-commweapons.lua)
 
-- **Usage:** `!bset tweakdefs <base64>`
+- 🔧 **Usage:** `!bset tweakdefs <base64>`
 
 - **Details:**
 > Gives all commanders all the scavenger boss weapons.
