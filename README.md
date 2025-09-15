@@ -74,8 +74,11 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 
 **Usage:** `!bset tweakdefs <base64>`
 >Adds autoheal and idle-autoheal to all units and buildings.
+
 >Adds 10% autoheal to units that already could.
+
 >Buff all unit health by 20%
+
 >Buff all building health by 30%
 
 **Code:**
