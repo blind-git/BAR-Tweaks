@@ -219,7 +219,10 @@ LS1BbGwgRmFjdGlvbiBDb21tYW5kZXJzCmxvY2FsIGV4dHJhQnVpbGRPcHRpb25zID0gewogICAgYXJt
 
 **Details:**
 > Gives all commanders all the scavenger boss weapons.
-> Yes this is ridiculous. Yes this works with evolving commanders.
+>
+> Yes this is ridiculous.
+>
+> Yes this works with evolving commanders.
 
 **Code:**
 ```
