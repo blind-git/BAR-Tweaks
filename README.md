@@ -23,7 +23,7 @@ Transform your BAR gameplay experience with custom scripts that enable, disable,
 ### Enable
  -----
 <details>
-<summary>ConTurret Build Options</summary>
+<summary><strong>ConTurret Build Options</strong></summary>
  
 **File:** [`enable-conturret-buildoptions.lua`](enable-conturret-buildoptions.lua)
 >Adds additional build options to the ConTurret. 
