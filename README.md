@@ -280,6 +280,8 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 <details>
 <summary><h2> 📚 Resources</h2></summary>
 
+##
+
 >
 > To learn how to make your own tweaks check out badosu's guide.
 >
