@@ -4,7 +4,7 @@
 Enable, disable, or modify units, buildings, weapons, and game mechanics — all without touching the core game files.
 
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/713/287/823/beyond-all-reason-war-robots-real-time-strategy-strategy-games-hd-wallpaper-preview.jpg" 
+  <img src="https://tiermaker.com/images/templates/beyond-all-reason-armada-units-15763215/157632151683121534.png" 
        alt="BAR Banner" 
        width="1080" 
        height="320"/>
