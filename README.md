@@ -43,7 +43,7 @@
 ## 📂 Tweaks
 
 
-<details><summary> ✅ <strong><h2>Enable or Add</h2></strong></summary>
+<details><summary><h2> ✅ <strong>Enable or Add</h3></strong></summary>
   <br>
 <details>
 <summary><strong>ConTurret Build Options</strong></summary>
