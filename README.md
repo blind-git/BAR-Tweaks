@@ -51,8 +51,6 @@
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
 <details>
 
->
-
 <summary><h4> ConTurret Build Options</h4></summary>
 
 >
