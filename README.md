@@ -1,7 +1,7 @@
 
 -----
 
-# <h1> 🤖 BAR-Tweaks</h1>
+# <h1><strong> 🤖 BAR-Tweaks</strong></h1>
 
 - Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.
 - Enable, disable, or modify units, buildings, weapons, and game mechanics
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Usage
+## <h2><strong> 🛠 Usage</strong></h2>
 
 <details>
 <summary><strong> 🎮 Lobby Commands</strong></summary>
@@ -40,7 +40,7 @@
 
 -----
 
-## <h1> 📂 Tweaks</h21>
+## <h1><strong> 📂 Tweaks</h2></strong>
 
 
 <details><summary><h3><strong> ✅ Enable or Add</h3></strong></summary>
@@ -142,7 +142,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 
 ##
 
-<details><summary> ❌ <strong>Disable or Remove</strong></summary>
+<details><summary><h3><strong> ❌ Disable or Remove</strong></h3></summary>
 <br>
 <details>
 <summary><strong>Jamming & Stealth</strong></summary>
@@ -185,7 +185,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 ##
 
-<details><summary> 🛠️ <strong>Modify or Tweak</strong></summary>
+<details><summary><h3><strong> 🛠️ Modify or Tweak</strong></h3></summary>
 <br>
 <details>
 <summary><strong>Faction Agnostic Labs</strong></summary>
