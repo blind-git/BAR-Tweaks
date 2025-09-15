@@ -73,13 +73,13 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZSBQYWNrCnsKYXJtemFwcGVyID0gewpoZWFsdGggPSAyODAs
 **File:** [`enable-regenerative-alloys.lua`](enable-regenerative-alloys.lua) 
 
 **Usage:** `!bset tweakdefs <base64>`
->Adds autoheal and idle-autoheal to all units and buildings.
+- Adds autoheal and idle-autoheal to all units and buildings.
 
->Adds 10% autoheal to units that already could.
+- Adds 10% autoheal to units that already could.
 
->Buff all unit health by 20%
+- Buff all army unit health by 20%
 
->Buff all building health by 30%
+- Buff all building health by 30%
 
 **Code:**
 ```
