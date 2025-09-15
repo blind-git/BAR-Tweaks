@@ -112,7 +112,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 
 -----
 
-### Disable or remove units features or functionality
+### Disable or Remove
 
 -----
 
@@ -151,7 +151,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 -----
 
-### Modify or tweak or adjust units gameplay or settings
+### Modify or Tweak
 
 -----
 
