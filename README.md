@@ -54,7 +54,7 @@
 
 -  🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Adds T1 and T2 build options to their relevant tiers ConTurret. 
 >
 > Updated to support Floating ConTurrets T1 and T2 and base builder turret with T1
@@ -75,7 +75,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 
 - 🔧 **Usage:** `!bset tweakunits <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Enables extra units lite pack.
 > 
 > Designed to be used without official extra units pack mod option in game.
@@ -107,7 +107,7 @@ LS1FbmFibGUgRXh0cmEgVW5pdHMgTGl0ZQp7CmFybXphcHBlciA9IHsKaGVhbHRoID0gMjgwLApzcGVl
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Enables reverse gear functionality for vehicles.  
  
 ```
@@ -122,7 +122,7 @@ LS1FbmFibGUgUmV2ZXJzZSBHZWFyCmxvY2FsIHVEZWZzID0gVW5pdERlZnMgb3Ige30KZm9yIGlkLCB1
 - 📝 **File:** [`enable-dgun-uw.lua`](enable-dgun-uw.lua)  
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Allows all commanders to use DGun underwater.
 > 
 > ⚠️ DGun projectiles above water do not affect submersibles.  
@@ -148,7 +148,7 @@ LS1FbmFibGUgREd1biBVbmRlcndhdGVyCmxvY2FsIGNvbW1hbmRlcnMgPSB7CiAgICAiYXJtY29tIiwi
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Removes **all** jamming, stealth, cloak, and sonar-stealth abilities.  
 
 - **Code:**
@@ -166,7 +166,7 @@ LS1EaXNhYmxlIEphbW1pbmcvU3RlYWx0aHkKZm9yIHVuaXROYW1lLCB1RGVmIGluIHBhaXJzKFVuaXRE
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Removes Tyrannus and Dragon units from Advanced Air Labs.  
 
 **Code:**
@@ -191,7 +191,7 @@ LS1EaXNhYmxlIFR5cmFubnVzL0RyYWdvbgoKbG9jYWwgbGVnYWFwID0gVW5pdERlZnNbImxlZ2FhcCJd
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Allows **all labs** to build all factions units of the same tier and type.  
 
 - **Code:**
@@ -210,7 +210,7 @@ LS1GYWN0aW9uIEFnbm9zdGljIE1vZApsb2NhbCBmdW5jdGlvbiBtZXJnZUxhYnMobGFicykKICAgIGxv
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Allows **all commanders** to build any factions T1 Lab.
 >
 > Allows **commanders level1-4** to build all unique T1 factions mex (Armed Exploiter, Cloakable Metal Extractor, Overcharged Metal Extractor)
@@ -235,7 +235,7 @@ LS1PbW5pIEZhY3Rpb24gQ29tbWFuZGVycwpsb2NhbCBleHRyYUJ1aWxkT3B0aW9ucyA9IHsKICAgIGFy
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Adds autoheal and idle autoheal to all units and buildings.
 >
 > Boosts all units autoheal + idle autoheal by 10%
@@ -260,7 +260,7 @@ LS1SZWdlbmVyYXRpdmUgQWxsb3lzCmxvY2FsIFVOSVRfSEVBTFRIX01VTFQgPSAxLjIgICAgICAgICAg
 
 - 🔧 **Usage:** `!bset tweakdefs <base64>`
 
-- **Details:**
+- ℹ️ **Info:**
 > Gives all commanders all the scavenger boss weapons.
 >
 > Yes this is ridiculous.
