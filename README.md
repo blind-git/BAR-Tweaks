@@ -27,8 +27,12 @@
 <summary><h3>🎮 Lobby Commands</h3></summary>
 
 >
->  To apply tweaks, use the `tweakdefs` or `tweakunits` commands.
+>  To apply tweaks, use the `tweakdefs` or `tweakunits` commands. Refer to usage section of tweak for appropriate method per mod.
 > 
+> `tweakunits` must not contain any script elements such as functions, loops, or similar. The code replaces certain variables.
+>
+> `tweakdefs` is much more extensive, here you can integrate functions and loops to, iterate over all units defs, or based off of any unitdef.
+>
 >  Ensure each command is on its own line if pasting multiple at once.
 
 ```
