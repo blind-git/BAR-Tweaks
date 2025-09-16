@@ -100,7 +100,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 >
 > | Tier | Faction | Units |
 > |------|---------|-------|
-> | **T1** | Arm | Zapper (EMP Scout – enhanced speed/health), Fify (Flying Rez/Reclaim) |
+> | **T1** | Arm | Zapper (EMP Scout – enhanced speed/health), Firefly (Flying Rez/Reclaim) |
 > | **T2** | Arm | T2 Construction Turret, Shockwave (T2 EMP Mex), Dragon's Fury (T2 Popup Turret) |
 > |       | Core | Deadeye (Sniper), Siegebreaker (Starlight equivalent), Phantom (Spy Tank), Printer (Field Engineer), Forge (Combat Engineer), Torch (Flame Tank), Laser Tiger (Mobile HLT), Heat Tiger (Heatray Tiger), Advanced Armed Exploiter, T2 Floating Construction Turret |
 > |       | Legion | Advanced Metal Fortifier, Dragon's Rage (T2 Popup Turret) |
