@@ -4,7 +4,9 @@
 # <h1><strong> 🤖 BAR-Tweaks</strong></h1>
 
 - Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.
-- Enable, disable, or modify units, buildings, weapons, and game mechanics
+- BAR lets you modify the game with some limitations, using Lua scripts.
+- The scripts are added to the game in base64 format and are decoded and loaded in post.
+- Enable, disable, or modify units, buildings, weapons, and game mechanics and more.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
@@ -294,6 +296,8 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 > If you've adjusted or made your own code use a base64 encoder to be able to apply the mod in game.
 >
 > - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
+>
+> Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
 
 </details>
 
