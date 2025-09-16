@@ -1,4 +1,4 @@
--- Extra Units Lite
+--Extra Units Lite
 local UnitDefs = UnitDefs or {}
 
 -- Table of extra units for each builder
