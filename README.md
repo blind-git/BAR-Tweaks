@@ -43,6 +43,9 @@
 !bset tweakunits1 <base64>
 !bset tweakunits2 <base64> ...etc
 ```
+> Script must be encoded in base64 for the in game tweak function to accept it. Codes are supplied with the tweaks.
+>
+> The scripts are also availiable to modify, you can adjust them, encode to base64 and make your own.
 
 </details>
 
