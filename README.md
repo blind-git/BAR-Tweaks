@@ -90,11 +90,9 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 > 🔧 **Usage:** `!bset tweakdefs <base64>`
 >
 > ℹ️ **Info:**
-> - Enables extra units lite pack.
+> - Customised extra units lite pack.
 >
-> - Designed to be used without official extra units pack mod option in game.
->
-> - Updated to be a `tweakdef` not a `tweakunit`
+> - Designed to be used without official extra units pack or scavengers mod options in game.
 >
 > - **New Units:**
 >
