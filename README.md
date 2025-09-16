@@ -298,6 +298,12 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 > - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
 >
 > Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
+>
+> List of Beyond all Reason unit names:
+> - [**BAR-Units**](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/master/language/en/units.json)
+>
+> Documentation for unitdefs:
+> - [**UNIT-DEFS**](https://springrts.com/wiki/Gamedev:UnitDefs)
 
 </details>
 
