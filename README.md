@@ -300,11 +300,14 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 > Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
 >
 > List of Beyond all Reason unit names and their code names from the language localization files.
-> - [**BAR-Units**](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/master/language/en/units.json)
+> - [**BAR-UNITS**](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/master/language/en/units.json)
 >
 > Documentation for unitdefs:
 > - [**UNIT-DEFS**](https://springrts.com/wiki/Gamedev:UnitDefs)
 >
+> Documentation for weapondefs:
+> - [**WEP-DEFS**](https://springrts.com/wiki/Gamedev:WeaponDefs)
+>   
 > Everything else you may need can be found in the main bar github repo linked at top.
 
 </details>
