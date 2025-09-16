@@ -101,9 +101,9 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 > | Tier | Faction | Units |
 > |------|---------|-------|
 > | **T1** | Arm | Zapper (EMP Scout – enhanced speed/health), Firefly (Flying Rez/Reclaim) |
-> | **T2** | Arm | T2 Construction Turret, Shockwave (T2 EMP Mex), Dragon's Fury (T2 Popup Turret) |
-> |       | Core | Deadeye (Sniper), Siegebreaker (Starlight equivalent), Phantom (Spy Tank), Printer (Field Engineer), Forge (Combat Engineer), Torch (Flame Tank), Laser Tiger (Mobile HLT), Heat Tiger (Heatray Tiger), Advanced Armed Exploiter, T2 Floating Construction Turret |
-> |       | Legion | Advanced Metal Fortifier, Dragon's Rage (T2 Popup Turret) |
+> | **T2** | Arm | T2 Construction Turret, T2 Floating Construction Turret, Shockwave (T2 EMP Mex) |
+> |       | Core | Deadeye (Sniper), Siegebreaker (Starlight equivalent), Phantom (Spy Tank), Printer (Field Engineer), Forge (Combat Engineer), Torch (Flame Tank), Laser Tiger (Mobile HLT), Heat Tiger (Heatray Tiger), Advanced Armed Exploiter, T2 Floating Construction Turret, Dragon's Rage (T2 Popup Turret)  |
+> |       | Legion | Advanced Metal Fortifier, T2 Construction Turret, T2 Floating Construction Turret |
 > | **T3** | Arm | Assimilator (Anti-Spam/AA), Lunchbox (All-Terrain Heavy Plasma Cannon), Meatball (Amphibious Mech), Epic Pawn (Amphibious Fast Infantry Bot), Epic Recluse (All-Terrain Amphibious Rocket Spider), Ratte (Very Heavy Amphibious Riot Tank), Nexus Terra (Drone Carrier) |
 > |       | Core | Epic Grunt (Fast Amphibious Infantry Bot), Epic Karganeth (All-Terrain Amphibious Assault Mech), Epic Commando (Cloakable Amphibious Sabotage Paratrooper Bot), Epic Tzar (Super Heavy Amphibious Assault Tank) |
 > |       | Legion | Epic Goblin (Heavy Skirmish Bot), Mukade (Heavy Multi-Weapon Assault Mech), Epic Arcquebus (All-Terrain Amphibious Heavy Sniper Railgun) |
