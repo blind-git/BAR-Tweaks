@@ -87,3 +87,34 @@ for t2NanoUnit, config in pairs(t2NanoExtras) do
         end 
     end 
 end
+
+local builderToNano = {
+    armack = "armnanotct2",
+    armaca = "armnanotct2",
+    armacv = "armnanotct2",
+
+    corack = "cornanotct2",
+    coraca = "cornanotct2",
+    coracv = "cornanotct2",
+
+    legack = "legnanotct2",
+    legaca = "legnanotct2",
+    legacv = "legnanotct2",
+}
+
+for builder, nano in pairs(builderToNano) do
+    if UnitDefs[builder] and UnitDefs[nano] then
+        local opts = UnitDefs[builder].buildoptions or {}
+        local found = false
+        for _, unit in ipairs(opts) do
+            if unit == nano then
+                found = true
+                break
+            end
+        end
+        if not found then
+            table.insert(opts, nano)
+            UnitDefs[builder].buildoptions = opts
+        end
+    end
+end
