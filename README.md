@@ -104,8 +104,7 @@ LS1FbmFibGUgQ29uVHVycmV0IEJ1aWxkT3B0aW9ucwpmdW5jdGlvbiBkZWVwY29weShhKQogICAgbG9j
 > | **T2 Bots** | **Cortex:** DEADEYE (Sniper) |
 > | **T2 Vehicles** | **Cortex:** SIEGEBREAKER (Starlight equiv) • PHANTOM (Spy Tank) • PRINTER (Field Engineer) • FORGE (Combat Engineer) • TORCH (Flame Tank) • LASER TIGER (Mobile HLT) • HEAT TIGER (Heatray Tiger) |
 > | **T3** | **Armada:** MEATBALL (Amphibious Mech) • ASSIMILATOR (Anti-Spam/AA) |
-> | **T2 Constructors** | **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)<br>**Cortex/Legion:** T2 Construction Turret • DRAGON'S RAGE (T2 Popup Turret) |
-> | **T2 Buildings** | T2 Floating Construction Turret • All default extra unit static defense • No T3 Eco |
+> | **T2 Buildings** | **Armada:** T2 Construction Turret • Shockwave (T2 EMP Mex) • DRAGON'S FURY (T2 Popup Turret)<br>**Legion:** Advanced Metal Fortifier • DRAGON'S RAGE (T2 Popup Turret)<br>T2 Floating Construction Turret • **Core:** Advanced Armed Exploiter |
 > 
 > **Code:**
 ```
