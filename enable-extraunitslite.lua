@@ -7,7 +7,7 @@ local extraUnits = {
     armap  = {"armfify"},
     armvp  = {"armzapper"},
     armshockwave = {},
-    armshltx = {  
+    armshltx = {  -- ARM T3 Extra
         "armassimilator","armlunchbox","armmeatball","armpwt4","armsptkt4",
         "armrattet4","armdronecarryland",
     },
@@ -27,7 +27,7 @@ local extraUnits = {
     corack = {"cornanotct2","cormwall"},
     coraca = {"cornanotct2"},
     coracv = {"cornanotct2"},
-    corgant = {       
+    corgant = {   -- CORE T3 Extra
          "corakt4","corkarganetht4","cormandot4","corgolt4","leggobt3","legpede","legsrailt4"
     },
     corforge = {
