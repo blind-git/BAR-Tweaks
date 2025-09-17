@@ -1,4 +1,4 @@
--- Disable Jamming & Stealth on all units
+--Disable Jamming & Stealth on all units
 for unitName, uDef in pairs(UnitDefs) do
     -- Kill radar jamming
     if uDef.radardistancejam and uDef.radardistancejam > 0 then
