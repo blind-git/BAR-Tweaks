@@ -324,6 +324,17 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 </details>
 
+<details><summary><h3>Templates</h3></summary>
+
+> WIP
+> 
+> WIP
+> 
+> WIP
+
+</details>
+
+
 <details>
 <summary><h3>Tools</h3></summary>
 
