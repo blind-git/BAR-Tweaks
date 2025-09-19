@@ -2,12 +2,12 @@
 -- Weapon Removal Template
 --====================================================--
 -- Define weapons to remove by unit
--- unitName = { "weapon1, weapon2" }
+
 
 local UnitDefs = UnitDefs or {}
 
 local weaponsToRemove = {
-
+    -- unitName = { "weapon1, weapon2" }
     -- Example D-Gun Removal
     -- armcom = { "disintegrator" }, 
 }
