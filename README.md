@@ -296,7 +296,9 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 ##
 
-<details><summary><h3>Guides</h3></summary></details>
+<details>
+<summary><h3>Guides</h3></summary>
+
 >
 > To learn how to make your own tweaks check out badosu's guide.
 >
@@ -304,7 +306,8 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 </details>
 
-<details><summary><h3>Documentation</h3></summary></details>
+<details>
+<summary><h3>Documentation</h3></summary>
 
 >
 > List of Beyond all Reason unit names and their code names from the language localization files.
@@ -321,7 +324,8 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 </details>
 
-<details><summary><h3>Tools</h3></summary></details>
+<details>
+<summary><h3>Tools</h3></summary>
 
 > If you've adjusted or made your own code use a base64 encoder to be able to apply the mod in game.
 >
