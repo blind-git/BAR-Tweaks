@@ -296,17 +296,16 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 
 ##
 
+<details><summary><h3>Guides</h3></summary></details>
 >
 > To learn how to make your own tweaks check out badosu's guide.
 >
 > - 📘 [**How to Tweak Guide**](https://gist.github.com/badosu/f2617db52e7486a7769366642d354a01)
->
-> If you've adjusted or made your own code use a base64 encoder to be able to apply the mod in game.
->
-> - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
->
-> Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
->
+
+</details>
+
+<details><summary><h3>Documentation</h3></summary></details>
+
 >
 > List of Beyond all Reason unit names and their code names from the language localization files.
 > - [**BAR-UNITS**](https://github.com/beyond-all-reason/Beyond-All-Reason/blob/master/language/en/units.json)
@@ -318,6 +317,20 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 > - [**WEP-DEFS**](https://springrts.com/wiki/Gamedev:WeaponDefs)
 >   
 > Everything else you may need can be found in the main bar github repo linked at top.
+>
+
+</details>
+
+<details><summary><h3>Tools</h3></summary></details>
+
+> If you've adjusted or made your own code use a base64 encoder to be able to apply the mod in game.
+>
+> - 🔑 [**Base64 Encoder Tool**](https://www.base64encode.org/)
+>
+> Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
+>
+
+</details>
 
 </details>
 
