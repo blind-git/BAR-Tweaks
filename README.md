@@ -343,6 +343,10 @@ LS1TY2F2Ym9zcyBDb21tYW5kZXIgV2VhcG9ucwpsb2NhbCBmdW5jdGlvbiBkZWVwQ29weShvcmlnLCBz
 >
 > Make sure that the “Perform URL-Save Endcoding” checkbox is activated.
 >
+> If you've got a particularly large tweak you can use this tool to minify the luascript before encoding.
+>
+> - [**Lua Base64 Encoder**](https://nntpaul.github.io/)
+>
 
 </details>
 
