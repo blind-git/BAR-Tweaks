@@ -1,25 +1,24 @@
 
 -----
-
-<div align="center">
   
 # <strong>🤖 BAR-Tweaks</strong>
   
-![Views](https://visitor-badge.laobi.icu/badge?page_id=blind-git.BAR-Tweaks&title=Views)  [![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/stargazers)  
-</div>
+
 
 - Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.  
 - BAR lets you modify the game with some limitations, using Lua scripts.  
 - The scripts are added to the game in base64 format and are decoded and loaded in post.  
-- Enable, disable, or modify units, buildings, weapons, and game mechanics and more.  
-
+- Enable, disable, or modify units, buildings, weapons, and game mechanics and more.
+  
+<div align="center">
+  
 <p>
   <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
        alt="Banner" />
 </p>
-<div align="center">
+
   
-[![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/beyond-all-reason)  [![BAR Discord](https://img.shields.io/badge/BAR-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)  [![Blind's Discord](https://img.shields.io/badge/ADHD%20BlinD's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=blind-git.BAR-Tweaks&title=Views)  [![GitHub stars](https://img.shields.io/github/stars/blind-git/BAR-Tweaks?style=flat&logo=github)](https://github.com/blind-git/BAR-Tweaks/stargazers)  [![BAR GitHub](https://img.shields.io/badge/BAR-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/beyond-all-reason)  [![BAR Discord](https://img.shields.io/badge/BAR-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/beyond-all-reason)  [![Blind's Discord](https://img.shields.io/badge/ADHD%20BlinD's-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KcdTYNRbfR)
 
 </div>
 ---
