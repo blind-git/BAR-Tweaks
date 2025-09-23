@@ -6,7 +6,7 @@
 - Custom Lua script tweaks for [Beyond All Reason (BAR)](https://www.beyondallreason.info/) mods.  
 - BAR lets you modify the game with some limitations, using Lua scripts.  
 - The scripts are added to the game in base64 format and are decoded and loaded in post.  
-- Enable, disable, or modify units, buildings, weapons, and game mechanics and more.
+- Enable, disable, or modify units, buildings, weapons, game mechanics and more.
   
 <p>
   <img src="https://raw.githubusercontent.com/blind-git/BAR-Tweaks/refs/heads/main/banner.png" 
